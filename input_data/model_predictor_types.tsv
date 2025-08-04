@@ -1,0 +1,2663 @@
+name	type	specific
+Stage	Stage	Clinical data
+Fibrinogen_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green19_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Class3_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+Immunoediting_Swarbrick_POSITIVE_MOUSE_Nat.Commun.2022_PMID.36344500	RNA	Gene expression signature
+MET_UP_RNA_Seq_Significant_Genes_JCI.2018_PMID.29480819	RNA	Gene expression signature
+Lim2010_MatureLum_Adam_PMID.25575446	RNA	Gene expression signature
+MUnknown_9_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Shehata2012_Erbb3neg_PMID.25575446	RNA	Gene expression signature
+NFIB_Single_Gene	RNA	Gene expression signature
+HRneg.Tneg_14.Genes_BCR.2010_PMID.20946665	RNA	Gene expression signature
+MNOtch4_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MFGFR2_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Chromogramin_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red17_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_8_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green12_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Unknown_15_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green3_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red5_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red19_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MNB3_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_5_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_NK_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Bcells_Naive_J.Clin.Oncol.2015_PMID.25800755	RNA	Gene expression signature
+Endothelial_Tumor_EC_high_Angiogenesis_2014_PMID.24257808	RNA	Gene expression signature
+MM_Green25_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+ACTIVATED_CANCER_CELL_SIGNATURE_Nat.Cell.Biol.2019_PMID.31263265	RNA	Gene expression signature
+Mmyosin_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Mast_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_Mast_cell	RNA	Gene expression signature
+CIBERSORT_Mast_cells_resting_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+CIBERSORT_Mast_cells_activated_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+MM_Red3_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red13_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_18_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red25_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Up_regulated_by_Oncogenic_N_RAS_Cell_Rep.2015_PMID.26166574	RNA	Gene expression signature
+Up_regulated_upon_N_RAS_repression_Cell_Rep.2015_PMID.26166574	RNA	Gene expression signature
+Luminal_Progenitor_Down_Nat.Med.2009_PMID.19648928	RNA	Gene expression signature
+MBASAL_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red6_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MASC_Up_Nat.Med.2009_PMID.19648928	RNA	Gene expression signature
+Lim.et.al.2010.Conserved.aMaSC_BCR.2010_PMID.20346151	RNA	Gene expression signature
+Stingl_Day7_Downregulated_Nat.Cell.Biol.2014_PMID.25173976	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Normal_mucosa_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+MM_Wnt1.Early_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+MM_Wnt1.Late_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+Lim2009_MaSC_Adam_PMID.25575446	RNA	Gene expression signature
+aMaSC_HsEnriched_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Pfefferle2012_MaSC_PMID.25575446	RNA	Gene expression signature
+Lim2010_MaSC_Adam_PMID.25575446	RNA	Gene expression signature
+aMaSC_HsEnriched_Refined1_BCR.2015_PMID.25575446	RNA	Gene expression signature
+MM_DMBAwnt_1pFDR_UP_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+MM_Myoepithelioma.like_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+AMPH_EPIREGULIN_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red18_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Scorr_IE_Correlation_JCO.2006_PMID.16505416	RNA	Gene expression signature
+Lobular_Carcinoma_In_Situ_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+Spike2012_fStr_PMID.25575446	RNA	Gene expression signature
+MVEGFC_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green13_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green14_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+aStr_HsEnriched_Refined1_BCR.2015_PMID.25575446	RNA	Gene expression signature
+MM_Green18_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red3_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Stingl_Down_CLOW_High_Nat.Cell.Biol.2014_PMID.25173976	RNA	Gene expression signature
+ER_METABOLITE_HIGH84_MEDIAN_Cancer.Res.2022_PMID.34911787	RNA	Gene expression signature
+HS_Red10_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+CD34_CD36_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Blood_vessels_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+MM_Red7_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Normal_1pFDR_UP_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+GSEA_RETINOL_METABOLISM_KEGG	RNA	Gene expression signature
+C3_TAG_RESPONDING_Usary_Clin.Cancer.Res.2013_PMID.23780888	RNA	Gene expression signature
+MM_Normal.like_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+MNB2_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red24_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+UNC_Scorr_LumA_Correlation_JCO.2009_PMID.19204204	RNA	Gene expression signature
+Chemo_Endocrine_Score_CC_.2.LumA_subtract.by_CC.2.Basal_Clin.Cancer.Res.2017_PMID.27903675	RNA	Gene expression signature
+Scorr_P53_Wt_Correlation_BMC.Cancer.2006_PMID.17150101	RNA	Gene expression signature
+Scorr_PTEN_Absent_Correlation_PNAS.2007_PMID.17452630	RNA	Gene expression signature
+Pcorr_NKI70_Good_Correlation_Nature.2002_PMID.11823860	RNA	Gene expression signature
+Pcorr_bronchioid_PLOS.2012_PMID.22590557	RNA	Gene expression signature
+UNC_Scorr_Norm_Correlation_JCO.2009_PMID.19204204	RNA	Gene expression signature
+ESR1_Active_Fusions_Cancer.Res.2021_PMID.31647985	RNA	Gene expression signature
+PGR_Single_Gene	RNA	Gene expression signature
+Duke_Module01_acidosis_Mike_PMID.20335537	RNA	Gene expression signature
+Shehata2012_Basal_PMID.25575446	RNA	Gene expression signature
+High_In_No_Response_MCP_TLS_Melanoma_PMID.31942075	RNA	Gene expression signature
+FOXC1_Hair_Follicles_Wang_SCIENCE.2016_P30C.LO.vs.WT_Negative_PMID.26912704	RNA	Gene expression signature
+MM_Stat1_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+Scorr_EMAT2_Correlation_BCR.2020_PMID.32641077	RNA	Gene expression signature
+Wahl_aMaSC_Signature_Cell.Stem.Cell.2012_PMID.22305568	RNA	Gene expression signature
+Spike2012_aMaSC_PMID.25575446	RNA	Gene expression signature
+Charoentong_Mast_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+Taube_EMT_up_PNAS.2010_PMID.20713713	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Lymph_vessels_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Wahl_fSTR_Signature_Cell.Stem.Cell.2012_PMID.22305568	RNA	Gene expression signature
+MM_Green20_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+aStr_HsEnriched_Refined2_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Stromal_Up_Nat.Med.2009_PMID.19648928	RNA	Gene expression signature
+Lim2009_Stroma_Adam_PMID.25575446	RNA	Gene expression signature
+Pfefferle2012_Stroma_PMID.25575446	RNA	Gene expression signature
+aStr_Lim09_BCR.2015_PMID.25575446	RNA	Gene expression signature
+aStr_HsEnriched_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Lim2010_Stroma_Adam_PMID.25575446	RNA	Gene expression signature
+MECM_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+aStr_Prat_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Shehata2012_Stroma_PMID.25575446	RNA	Gene expression signature
+MDACC.FNA.2_J.Clin.Oncol.2010_PMID.20805453	RNA	Gene expression signature
+EMT_UP_Weinberg_PNAS.2010_PMID.20713713	RNA	Gene expression signature
+HS_Green4_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Verhaak_Stromal_Nat.Commun.2013_PMID.24113773	RNA	Gene expression signature
+MM_Red1_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Claudinlow_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+MM_Green1_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+PDGFRB_Single_Gene	RNA	Gene expression signature
+aStr_Shehata_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Vascular.Content_Clin.Exp.Metastasis.2014_PMID.23975155	RNA	Gene expression signature
+MM_Green5_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+METAPLASTIC_Up_CanRes.2009_PMID.19435916	RNA	Gene expression signature
+MS_CD44_UP_PNAS.2009_PMID.19666588	RNA	Gene expression signature
+MProtocadherin_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Class8_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+Fibroblasts_MCP_PMID.31942075_PMID.31942077	RNA	Gene expression signature
+Fibromatosis_Lab.Invest.2008_PMID.18414401	RNA	Gene expression signature
+Fibroblast_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Murat_G07_J.Clin.Oncol.2008_PMID.18565887	RNA	Gene expression signature
+HS_Red21_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green9_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Immune_Archetypes_Stroma_Cell.2022_PMID.27871313	RNA	Gene expression signature
+MET_DOWN_Significant_Genes_LOW_BASALS_1_Genes_JCI.2018_PMID.29480819	RNA	Gene expression signature
+Pcorr_Dasatinib_R_Correlation_Cancer.Res.2007_PMID.17332353	RNA	Gene expression signature
+Mature_Luminal_Down_Nat.Med.2009_PMID.19648928	RNA	Gene expression signature
+Troester_Wound_Signature_Clin.Cancer.Res.2009_PMID.19887484	RNA	Gene expression signature
+Immunoediting_Swarbrick_NEGATIVE_MOUSE_Nat.Commun.2022_PMID.36344500	RNA	Gene expression signature
+Pcorr_Breast2Lung_LM2_Correlation_Nature.2005_PMID.16049480	RNA	Gene expression signature
+FOXC1_Hair_Follicles_Wang_SCIENCE.2016_P30C.LO.vs.WT_Positive_PMID.26912704	RNA	Gene expression signature
+PDGFRA_Single_Gene	RNA	Gene expression signature
+HS_Red24_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+FOS_JUN_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+NANOSTRING_MODULE_Eosinophils	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Eosinophils_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Charoentong_Eosinophil_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+NANOSTRING_MODULE_Complement	RNA	Gene expression signature
+M2_Macrophage_Blood.2006_PMID.16556895	RNA	Gene expression signature
+MAPK_pathway_activation_Wagle_NPJ.Precis.Oncol.2018_PMID.29872725	RNA	Gene expression signature
+PTEN_Single_Gene	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_NK_CD56bright_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_NK_CD56bright_cell	RNA	Gene expression signature
+HS_Green18_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red19_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+PR_Isoform_Ratio_Up_in_PRA_H_JNCI.2017_PMID.28376177	RNA	Gene expression signature
+HS_Green8_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green25_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Mature_LuminaUp_Nat.Med.2009_PMID.19648928	RNA	Gene expression signature
+MatureLum_HsEnriched_Refined1_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Lim2009_MatureLum_Adam_PMID.25575446	RNA	Gene expression signature
+Pfefferle2012_MatureLum_PMID.25575446	RNA	Gene expression signature
+Duke_Module06_er_Mike_PMID.20335537	RNA	Gene expression signature
+LUMINAL_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green1_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Duke_Module14_p53_Mike_PMID.20335537	RNA	Gene expression signature
+MatureLum_Lim09_BCR.2015_PMID.25575446	RNA	Gene expression signature
+MatureLum_HsEnriched_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Lim.et.al.2010.Conserved.Mature_BCR.2010_PMID.20346151	RNA	Gene expression signature
+Shehata2012_NCL_PMID.25575446	RNA	Gene expression signature
+FOXA1_Single_Gene	RNA	Gene expression signature
+ESR1_Single_Gene	RNA	Gene expression signature
+MM_Neu.2012_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+MPYMT_NEU_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green22_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+FGFR4_Repressed_JCI.2020_PMID.32573490	RNA	Gene expression signature
+MCF7.E2.repressed.genes_JCO.2006_PMID.16505416	RNA	Gene expression signature
+Unknown_9_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green13_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+GATA3_Single_Gene	RNA	Gene expression signature
+XBP1_Single_Gene	RNA	Gene expression signature
+Shehata2012_ALDHneg_PMID.25575446	RNA	Gene expression signature
+Secretoglobin_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Spike2012_fMaSC_PMID.25575446	RNA	Gene expression signature
+Wahl_fMasC_Signature_Cell.Stem.Cell.2012_PMID.22305568	RNA	Gene expression signature
+Pcorr_classical_CCR.2010_PMID.20643781	RNA	Gene expression signature
+Keller2012_CD10_Adam_PMID.25575446	RNA	Gene expression signature
+ID4_Single_Gene	RNA	Gene expression signature
+Lung.WNT.DiMeo_Cancer.Res.2009_PMID.19549913	RNA	Gene expression signature
+Pcorr_Carcinoid_JMD.2013_PMID.23701907	RNA	Gene expression signature
+Pcorr_Small_Cell_Carcinoma_JMD.2013_PMID.23701907	RNA	Gene expression signature
+NANOSTRING_MODULE_NK_cell	RNA	Gene expression signature
+BCL2_Single_Gene	RNA	Gene expression signature
+EGFR_Single_Gene	RNA	Gene expression signature
+MET_Single_Gene	RNA	Gene expression signature
+JANES_Oscillation_GDF11_TGFBR3_Nat.Cell.Biol.2014_PMID.24658685	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Th17_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+IgG_Breast.Cancer.Research.2008_PMID.19272155	RNA	Gene expression signature
+MM_Red12_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green23_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red18_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green7_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_17_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_20_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HER2_AMPLIFIED_PerouLab_HER2_Amplicon_BMC_Med_Genomics_2011_PMID.21214954	RNA	Gene expression signature
+MM_Green14_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+YALE_RHOA_pathway_Ann.Oncol.2017_PMID.28177460	RNA	Gene expression signature
+Ductal_Carcinoma_In_Situ_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+MUnknown_19_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HGF_up_BCR.2013_PMID.24025166	RNA	Gene expression signature
+Murat_G18_J.Clin.Oncol.2008_PMID.18565887	RNA	Gene expression signature
+Immune_Archetypes_CD4_Cell.2022_PMID.27871313	RNA	Gene expression signature
+NANOSTRING_MODULE_Tcm	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Tcm_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Charoentong_Memory_B_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Tem_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_Tem	RNA	Gene expression signature
+Bcells_Plasmablast_J.Clin.Oncol.2015_PMID.25800755	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_TFH_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_Tgd	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Tgd_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Lim2010_LumProg_Adam_PMID.25575446	RNA	Gene expression signature
+NANOSTRING_MODULE_Th2_cell	RNA	Gene expression signature
+TNBC_Clinically_Relevant_Good.26_BCR.2011_PMID.21978456	RNA	Gene expression signature
+NANOSTRING_MODULE_Microglial_Functions	RNA	Gene expression signature
+Immune_Archetypes_cDC2_Cell.2022_PMID.27871313	RNA	Gene expression signature
+NANOSTRING_MODULE_iDC	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_DC_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_DC	RNA	Gene expression signature
+Stromal_Signature_Nat.Med.2008_PMID.18438415	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_pDC_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_Adhesion	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_NK_CD56dim_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+CIBERSORT_Plasma_cells_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+Miller_B_P_Metagene_Genome_Biol_2013_PMID.23618380	RNA	Gene expression signature
+IGG_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green12_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+NANOSTRING_MODULE_TFH	RNA	Gene expression signature
+IMMUNE_PEREZ_14_JCO.2015_PMID.2560586	RNA	Gene expression signature
+TLS_New_9Gene_Signature_PMID.31942071	RNA	Gene expression signature
+MUnknown_33_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+EXTENDED_B_CELL_signatures_Garber_Cell.Mol.Gastroenterol.Hepatol.2017_PMID.28508029	RNA	Gene expression signature
+CD103_Positive_Cancer.Cell.2014_PMID.25446897	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_B_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Charoentong_Activated_B_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+CORE_B_CELL_signatures_Garber_Cell.Mol.Gastroenterol.Hepatol.2017_PMID.28508029	RNA	Gene expression signature
+CIBERSORT_B_cells_naive_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+CIBERSORT_B_cells_memory_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+B_Cell_cluster_Iglesia_CCR.2014_PMID.24916698	RNA	Gene expression signature
+NANOSTRING_MODULE_B_cell	RNA	Gene expression signature
+B_lineage_MCP_PMID.31942075_PMID.31942077	RNA	Gene expression signature
+Bcell_Tcell_Cooperation_Cell.2019_PMID.31730857	RNA	Gene expression signature
+CD19_Single_Gene	RNA	Gene expression signature
+MS4A1_Single_Gene	RNA	Gene expression signature
+Charoentong_Immature__B_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+TLS_Hallmark_Gene_Signature_PMID.31942071	RNA	Gene expression signature
+TLS_Known_MARKERS_PMID.31942071	RNA	Gene expression signature
+NANOSTRING_MODULE_NK_Cell_Functions	RNA	Gene expression signature
+Immune_High_In_Response_MCP_TLS_Melanoma_PMID.31942075	RNA	Gene expression signature
+Cytolytic_activity_signature_Rooney_Cell.2015_PMID.25594174	RNA	Gene expression signature
+NANOSTRING_MODULE_Cytotoxicity	RNA	Gene expression signature
+NANOSTRING_MODULE_Cytotoxic_cell	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Cytotoxic_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_Th1_cell	RNA	Gene expression signature
+Liu_CD8T_central_memory_A_HighK_CD8_Tcm_1_2	RNA	Gene expression signature
+GSEA_PD1_SIGNALING_REACTOME	RNA	Gene expression signature
+Liu_CD8T_exhausted_LowK_CD8_naive	RNA	Gene expression signature
+Liu_CD8T_central_memory_B_HighK_CD8_Tcm_1_3	RNA	Gene expression signature
+GSEA_BIOCARTA_CTLA4_PATHWAY	RNA	Gene expression signature
+CIBERSORT_T_cells_CD4_naive_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+CIBERSORT_T_cells_regulatory_Tregs_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_T_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Immune_Archetypes_Tcell_Cell.2022_PMID.27871313	RNA	Gene expression signature
+CIBERSORT_T_cells_CD8_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+CD8_cluster_Iglesia_CCR.2014_PMID.24916698	RNA	Gene expression signature
+T_Cell_cluster_Iglesia_CCR.2014_PMID.24916698	RNA	Gene expression signature
+CIBERSORT_T_cells_CD4_memory_resting_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+NANOSTRING_MODULE_T_cell	RNA	Gene expression signature
+CIBERSORT_T_cells_follicular_helper_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+MCD3_CD8_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+TLS_tumors_w_TLS_and_CD8_v_CD8alone_PMID.31942071	RNA	Gene expression signature
+CD3E_Single_Gene	RNA	Gene expression signature
+CIBERSORT_T_cells_gamma_delta_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+CIBERSORT_NK_cells_resting_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+CIBERSORT_NK_cells_activated_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+NANOSTRING_MODULE_Cell_Functions	RNA	Gene expression signature
+DAN_ImmuneActive_Cell.2019_PMID.31730857	RNA	Gene expression signature
+IMMUNE_PEREZ_87_JCO.2015_PMID.2560586	RNA	Gene expression signature
+HS_Red20_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Miller_T_NK_Metagene_Genome_Biol_2013_PMID.23618380	RNA	Gene expression signature
+LCK_Breast.Cancer.Research.2008_PMID.19272155	RNA	Gene expression signature
+CD3D_Single_Gene	RNA	Gene expression signature
+CIBERSORT_T_cells_CD4_memory_activated_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+Charoentong_Activated_CD8_T_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+NANOSTRING_MODULE_CD8_T_cell	RNA	Gene expression signature
+CD8A_Single_Gene	RNA	Gene expression signature
+PDCD1_Single_Gene	RNA	Gene expression signature
+Liu_CD8T_central_memory_C_HighK_CD8_Trm_2	RNA	Gene expression signature
+Immune_Archetypes_CD8_Cell.2022_PMID.27871313	RNA	Gene expression signature
+CTLA4_Single_Gene	RNA	Gene expression signature
+Immunomodulatory.27.Gene_Predict_ONCOCYTE_CANC.2021_PMID.34638323	RNA	Gene expression signature
+Mouse_Human_ImmuneProfiles_SHAY_M_H_Induced_in_NK_PNAS.2013_PMID.23382184	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Th1_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_T_helper_cell	RNA	Gene expression signature
+Immune_Archetypes_Treg_Cell.2022_PMID.27871313	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_TReg_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_Leukocyte_Functions	RNA	Gene expression signature
+NANOSTRING_MODULE_NK_CD56dim_cell	RNA	Gene expression signature
+Liu_CD4T_follicular_helper_B_LowK_CD8_Tex	RNA	Gene expression signature
+NANOSTRING_MODULE_Antigen_Processing	RNA	Gene expression signature
+NK_Cell_Resistant_Epithelial_signature_Nat.Genet.2021_PMID.34253920	RNA	Gene expression signature
+Durvalumab_signature_Higgs_Clin.Cancer.Res.2018_PMID.29716923	RNA	Gene expression signature
+Stromal_Inflammation_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+STAT1_Breast.Cancer.Research.2008_PMID.19272155	RNA	Gene expression signature
+Liu_CD8T_resident_memory_LowK_Treg_2	RNA	Gene expression signature
+Liu_Regulatory_T_1_HighK_CD4_Tfh_1_2	RNA	Gene expression signature
+Liu_Regulatory_T_2_HighK_CD4_Tfh_2_1	RNA	Gene expression signature
+Immune_Suppression_Kardos_JCI.Insight.2016_PMID.27699256	RNA	Gene expression signature
+MERCK_Immune_signature_Science.2018_PMID.30309915	RNA	Gene expression signature
+NANOSTRING_MODULE_Cytokines	RNA	Gene expression signature
+STAT3_Basal_Horvath_SHORT_PNAS.2014_PMID.25139989	RNA	Gene expression signature
+STAT3_Basal_Horvath_PNAS.2014_PMID.25139989	RNA	Gene expression signature
+SP142_Sung_Gwe_Ahn_94_genes_signature_Breast.Cancer.Res.Treat_PMID.33770313	RNA	Gene expression signature
+CIBERSORT_Macrophages_M1_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+CIBERSORT_Dendritic_cells_activated_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+HALLMARK_INTERFERON_GAMMA_RESPONSE	RNA	Gene expression signature
+NANOSTRING_MODULE_Interleukins	RNA	Gene expression signature
+Inflammatory_Breast_Cancer_491_IBC_CCR.2013_PMID.23396049	RNA	Gene expression signature
+Down_regulated_upon_N_RAS_repression_Cell_Rep.2015_PMID.26166574	RNA	Gene expression signature
+NANOSTRING_MODULE_Pathogen_Defense	RNA	Gene expression signature
+MHC.I_Breast.Cancer.Research.2008_PMID.19272155	RNA	Gene expression signature
+MM_p53null_1pFDR_UP_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+Duke_Module22_tnfa_Mike_PMID.20335537	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_aDC_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Duke_Module11_ifng_Mike_PMID.20335537	RNA	Gene expression signature
+MM_Green21_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Tcell_EXH_Anti_PDL1_vs_control_treated_exhausted_CD8_T_cell_Metagene_1_Science.2016_PMID.27789795	RNA	Gene expression signature
+Duke_Module10_ifna_Mike_PMID.20335537	RNA	Gene expression signature
+Influenza_11genes_Metasignature_KHATRI_Immunity.2015_PMID.26682989	RNA	Gene expression signature
+HS_Red16_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Interferon_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Interferon_Breast.Cancer.Research.2008_PMID.19272155	RNA	Gene expression signature
+Charoentong_Activated_CD4_T_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+GSEA_HDAC_TARGETS_DN_HELLER	RNA	Gene expression signature
+Pcorr_squamoid_PLOS.2012_PMID.22590557	RNA	Gene expression signature
+CD274_Single_Gene	RNA	Gene expression signature
+MM_Green16_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Bcell_IL10_PLUS_LIN_J_Immunol.2014_PMID.25080484	RNA	Gene expression signature
+Scorr_EMAT1_Correlation_BCR.2020_PMID.32641077	RNA	Gene expression signature
+MHC_Forero_24_Cancer.Immunol.Res.2016_PMID.26980599	RNA	Gene expression signature
+Bcells_Memory_J.Clin.Oncol.2015_PMID.25800755	RNA	Gene expression signature
+Immune_Archetypes_Marcophage_Cell.2022_PMID.27871313	RNA	Gene expression signature
+Liu_CD4T_follicular_helper_A_LowK_Treg_1	RNA	Gene expression signature
+CIBERSORT_Dendritic_cells_resting_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+Charoentong_Macrophage_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+CIBERSORT_Macrophages_M2_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+CD103_Negative_Cancer.Cell.2014_PMID.25446897	RNA	Gene expression signature
+Charoentong_Type_1_T_helper_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+Charoentong_Natural_killer_T_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+Liu_CD8T_effector_memory_HighK_CD8_Tcm_1_1	RNA	Gene expression signature
+Immune_Megagene_CancerCell.2019_PMID.30930117	RNA	Gene expression signature
+Charoentong_Effector_memeory_CD8_T_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+T_RM_Cell_single_cell_signature_Savas_Nat_Med.2018_PMID.29942092	RNA	Gene expression signature
+Tcell_EXH_Memory_CD8_T_cell_a_vs_Naive_CD8_T_cell_Metagene_1_Science.2016_PMID.27789795	RNA	Gene expression signature
+Miller_M_D_Metagene_Genome_Biol_2013_PMID.23618380	RNA	Gene expression signature
+MHC.II_Breast.Cancer.Research.2008_PMID.19272155	RNA	Gene expression signature
+MHC_Forero_11_Cancer.Immunol.Res.2016_PMID.26980599	RNA	Gene expression signature
+MDACC.FNA.1_J.Clin.Oncol.2010_PMID.20805453	RNA	Gene expression signature
+Claudin_High_Genome.Biol.2007_PMID.17493263	RNA	Gene expression signature
+NANOSTRING_MODULE_Regulation	RNA	Gene expression signature
+Immune_Hot_using_CD8_vs_Cold_PMID.31942071	RNA	Gene expression signature
+HS_Red4_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green6_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Verhaak_Immune_Nat.Commun.2013_PMID.24113773	RNA	Gene expression signature
+MM_Red22_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+TAM_Megagene_CancerCell.2019_PMID.30930117	RNA	Gene expression signature
+MacTh1_cluster_Iglesia_CCR.2014_PMID.24916698	RNA	Gene expression signature
+MUnknown_23_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Murat_G24_J.Clin.Oncol.2008_PMID.18565887	RNA	Gene expression signature
+HCK_Breast.Cancer.Research.2008_PMID.19272155	RNA	Gene expression signature
+Charoentong_MDSC_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+CIBERSORT_Monocytes_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+Parity_signature_Troester_251_BCR.2014_PMID.25005139	RNA	Gene expression signature
+Parity_signature_Troester_40_BCR.2014_PMID.25005139	RNA	Gene expression signature
+Immune_Archetypes_Myeloid_Cell.2022_PMID.27871313	RNA	Gene expression signature
+CD68_cluster_Iglesia_CCR.2014_PMID.24916698	RNA	Gene expression signature
+CD4_Single_Gene	RNA	Gene expression signature
+NANOSTRING_MODULE_TNF_Super_family	RNA	Gene expression signature
+NANOSTRING_MODULE_Chemokines	RNA	Gene expression signature
+Charoentong_T_follicular_helper_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+Tcell_EXH_Exhausted_CD8_T_cell_vs_Naive_CD8_T_cell_Metagene_3_Science.2016_PMID.27789795	RNA	Gene expression signature
+Tcell_EXH_Effector_CD8_T_cell_at_day_8_p.i_Armstrong_vs_Naive_CD8_T_cell_Metagene_1_Science.2016_PMID.27789795	RNA	Gene expression signature
+Tcell_EXH_Memory_CD8_T_cell_a_vs_Naive_CD8_T_cell_Metagene_2_Science.2016_PMID.27789795	RNA	Gene expression signature
+SWARNIMA_T12_Macrophage_T12vsT11TAMS_Cancer.Res.2022_PMID.35442423	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Macrophages_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Charoentong_Regulatory_T_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+NANOSTRING_MODULE_Macrophages	RNA	Gene expression signature
+CIBERSORT_Macrophages_M0_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+HS_Green20_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Mouse_Human_ImmuneProfiles_SHAY_M_H_Induced_in_MO_PNAS.2013_PMID.23382184	RNA	Gene expression signature
+Mouse_Human_ImmuneProfiles_SHAY_M_H_Induced_in_GN_PNAS.2013_PMID.23382184	RNA	Gene expression signature
+Charoentong_Activated_dendritic_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+Charoentong_Natural_killer_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+NANOSTRING_MODULE_Transporter_Functions	RNA	Gene expression signature
+MM_Potluck_1pFDR_UP_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+MM_Red9_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MDSC_tumor_MO_Schlecker_J.Immunol.2012_PMID.23152559	RNA	Gene expression signature
+MDSC_tumor_Schlecker_J.Immunol.2012_PMID.23152559	RNA	Gene expression signature
+Tcell_EXH_Memory_CD8_T_cell_a_vs_Naive_CD8_T_cell_Metagene_3_Science.2016_PMID.27789795	RNA	Gene expression signature
+Tcell_EXH_Exhausted_CD8_T_cell_vs_Naive_CD8_T_cell_Metagene_1_Science.2016_PMID.27789795	RNA	Gene expression signature
+MDSC_Neutrophil_Youn_J_Leukoc_Biol.2012_PMID.21954284	RNA	Gene expression signature
+Charoentong_Monocyte_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+CIBERSORT_Eosinophils_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+Immune_Archetypes_cDC1_Cell.2022_PMID.27871313	RNA	Gene expression signature
+NANOSTRING_MODULE_TLR	RNA	Gene expression signature
+GSEA_CASPASE_CASCADE_APOPTOSIS_SA	RNA	Gene expression signature
+Mouse_Human_ImmuneProfiles_SHAY_M_H_Induced_in_T_PNAS.2013_PMID.23382184	RNA	Gene expression signature
+Mouse_Human_ImmuneProfiles_SHAY_M_H_Induced_in_B_PNAS.2013_PMID.23382184	RNA	Gene expression signature
+Charoentong_Effector_memeory_CD4_T_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+Charoentong_Plasmacytoid_dendritic_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+Mouse_Human_ImmuneProfiles_SHAY_M_H_Induced_in_DC_PNAS.2013_PMID.23382184	RNA	Gene expression signature
+Charoentong_Central_memory_CD4_T_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+Charoentong_Gamma_delta_T_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+ACTIVATED_BLOOD_NEUTROPHIL_SIGNATURE_Nat.Cell.Biol.2019_PMID.31263265	RNA	Gene expression signature
+MM_Green8_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Melanoma_Scorr_Immune_Cell.2015_PMID.26091043	RNA	Gene expression signature
+Pcorr_secretory_CCR.2010_PMID.20643781	RNA	Gene expression signature
+Bcells_Centrocyte_J.Clin.Oncol.2015_PMID.25800755	RNA	Gene expression signature
+Bcell_IL10_MINUS_LIN_J_Immunol.2014_PMID.25080484	RNA	Gene expression signature
+Charoentong_Type_17_T_helper_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+NANOSTRING_MODULE_Cell_Cycle	RNA	Gene expression signature
+MM_Red14_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Charoentong_CD56bright_natural_killer_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+MM_p53null.Basal_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+MIR_200c_Repressed_ONCO.2015_PMID.25746005	RNA	Gene expression signature
+MDSC_Granulocytic_Youn_J_Leukoc_Biol.2012_PMID.21954284	RNA	Gene expression signature
+Charoentong_Neutrophil_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+CIBERSORT_Neutrophils_Nat.Methods.2015_PMID.25822800	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Neutrophils_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+NANOSTRING_MODULE_Neutrophils	RNA	Gene expression signature
+Immune_Archetypes_Classical_Monocytes_Cell.2022_PMID.27871313	RNA	Gene expression signature
+Charoentong_Central_memory_CD8_T_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+MM_Green15_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Squamous.like_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+REPLICATION_STRESS_POS_Cell.Rep.2018_PMID.29768207	RNA	Gene expression signature
+GO_DOWN_with_SOX10_OE_Cell.Rep.2015_PMID.26365194	RNA	Gene expression signature
+Duke_Module21_tgfb_Mike_PMID.20335537	RNA	Gene expression signature
+Duke_Module20_stat3_Mike_PMID.20335537	RNA	Gene expression signature
+NANOSTRING_MODULE_Senescence	RNA	Gene expression signature
+MIR_200c_Induced_ONCO.2015_PMID.25746005	RNA	Gene expression signature
+BPMS_7.Genes_PLoS.One.2013_PMID.24349199	RNA	Gene expression signature
+MUnknown_24_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+TNBC_Clinically_Relevant_Good.230_BCR.2011_PMID.21978456	RNA	Gene expression signature
+TNBC_Clinically_Relevant_Poor.26_BCR.2011_PMID.21978456	RNA	Gene expression signature
+Pcorr_IGS_Correlation_NJEM.2007_PMID.17229949	RNA	Gene expression signature
+VEGF_13genes_BMC.Med.2009_PMID.19291283	RNA	Gene expression signature
+ADM_S100A10_A110NDGR1_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+NANOSTRING_MODULE_Macrophage_Functions	RNA	Gene expression signature
+Pcorr_Hypoxia_High_Correlation_PLoS.Med.2006_PMID.16417408	RNA	Gene expression signature
+Scorr_S329_L_Correlation_Br.J.Cancer.2008_PMID.18382427	RNA	Gene expression signature
+Charoentong_CD56dim_natural_killer_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_CD8_T_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+Liu_CD8T_naive_LowK_CD8_Tem_2	RNA	Gene expression signature
+Liu_CD4T_naive_LowK_CD4_naive	RNA	Gene expression signature
+MRibosomal_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Ribosomal_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Duke_Module19_src_Mike_PMID.20335537	RNA	Gene expression signature
+Charoentong_Immature_dendritic_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+MM_PyMT.2012_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+MM_Green10_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green3_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_16_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MNB1_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Duke_Module17_pr_Mike_PMID.20335537	RNA	Gene expression signature
+HS_Red9_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red2_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red2_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_NeuPyMT_1pFDR_UP_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+REPLICATION_STRESS_NEG_Cell.Rep.2018_PMID.29768207	RNA	Gene expression signature
+MUnknown_34_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_22_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_2_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Melanoma_Scorr_Keratin_Cell.2015_PMID.26091043	RNA	Gene expression signature
+Melanoma_Scorr_MITF.low_Cell.2015_PMID.26091043	RNA	Gene expression signature
+PARP_Sensitivity_Signature_NEGATIVE_Sci.Adv.2017_PMID.28439535	RNA	Gene expression signature
+MITO2_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MNADH_CYTochrome_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Duke_Module02_akt_Mike_PMID.20335537	RNA	Gene expression signature
+Apocrine_Features_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+RSS_Score_Clin.Cancer.Res.2018_PMID.29921729	RNA	Gene expression signature
+HRAS_Single_Gene	RNA	Gene expression signature
+Shipitsin_CD44_B_Cancer.Cell.2007_PMID.17349583	RNA	Gene expression signature
+Unknown_13_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Charoentong_Type_2_T_helper_cell_CellRep.2017_PMID.28052254	RNA	Gene expression signature
+HGF_down_BCR.2013_PMID.24025166	RNA	Gene expression signature
+RB1_Single_Gene	RNA	Gene expression signature
+MM_Red15_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Epithelial_Tubule_Formation_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+GO_UP_with_SOX10_OE_Cell.Rep.2015_PMID.26365194	RNA	Gene expression signature
+MM_Red23_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+GSEA_BIOCARTA_ALK_PATHWAY	RNA	Gene expression signature
+Early_IRS_2_PLoS.One.2016_PMID.26991655	RNA	Gene expression signature
+Early_IRS_1_PLoS.One.2016_PMID.26991655	RNA	Gene expression signature
+Unknown_2_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+GSEA_PI3K_CASCADE_REACTOME	RNA	Gene expression signature
+GSEA_RESPONSE_TO_ANDROGEN_UP_NELSON	RNA	Gene expression signature
+MKRAS_amplicon_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+KRAS_amplicon_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+KRAS_Single_Gene	RNA	Gene expression signature
+Early_Response_ER.Neg_27_JAMA.2011_PMID.21558518	RNA	Gene expression signature
+MM_WapINT3.2012_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+MM_WapINT3_1pFDR_UP_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+MM_Red8_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Early_Relapse_ER.Pos_33_JAMA.2011_PMID.21558518	RNA	Gene expression signature
+MUnknown_28_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+GENE_PANEL_TRUSEQ_40_ILLUMINA	RNA	Gene expression signature
+GSEA_BIOCARTA_VEGF_PATHWAY	RNA	Gene expression signature
+GSEA_BIOCARTA_PTEN_PATHWAY	RNA	Gene expression signature
+GSEA_IGF1R_PATHWAY_BIOCARTA	RNA	Gene expression signature
+GSEA_BIOCARTA_RAS_PATHWAY	RNA	Gene expression signature
+GSEA_BIOCARTA_AKT_PATHWAY	RNA	Gene expression signature
+Duke_Module07_glucosedepletion_Mike_PMID.20335537	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_T_helper_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+MUnknown_14_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red11_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Unknown_6_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Unknown_4_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+C_MYB_Signature_PLoS.One.2010_PMID.20949095	RNA	Gene expression signature
+MET_DOWN_Significant_Genes_LOW_BASALS_2_Genes_JCI.2018_PMID.29480819	RNA	Gene expression signature
+MET_DOWN_RNA_Seq_Significant_Genes_JCI.2018_PMID.29480819	RNA	Gene expression signature
+HS_Green7_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+XBP1_Signature_Nature.2014_PMID.24670641	RNA	Gene expression signature
+HS_Green16_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_10_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green17_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green22_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green24_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Unknown_16_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Chromatin_Modifier_Genes_Nature.2022_PMID.36289335	RNA	Gene expression signature
+GENE_PANEL_UNCSEQ_7.1_Oncologist.2018_PMID.29158372	RNA	Gene expression signature
+MUnknown_31_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Duke_Module05_egfr_Mike_PMID.20335537	RNA	Gene expression signature
+Unknown_3_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_15_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+ACTIVATED_LUNG_NEUTROPHIL_SIGNATURE_Nat.Cell.Biol.2019_PMID.31263265	RNA	Gene expression signature
+HS_Red22_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green4_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green11_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red17_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Inflammatory_Breast_Cancer_491_nIBC_CCR.2013_PMID.23396049	RNA	Gene expression signature
+Inflammatory_Breast_Cancer_79_nIBC_CCR.2013_PMID.23396049	RNA	Gene expression signature
+Extensive_Residual_Diesase_ER.Pos_73_JAMA.2011_PMID.21558518	RNA	Gene expression signature
+GSEA_MTOR_PATHWAY_BIOCARTA	RNA	Gene expression signature
+YALE_PIK3CA_Pathway_Ann.Oncol.2017_PMID.28177460	RNA	Gene expression signature
+ACTIVATED_LUNG_MSC_SIGNATURE_Nat.Cell.Biol.2019_PMID.31263265	RNA	Gene expression signature
+PARP_Sensitivity_Signature_POSITIVE_Sci.Adv.2017_PMID.28439535	RNA	Gene expression signature
+PARP_sensitivity_MDACC_NPJ.Syst.Biol.Appl._2017_PMID.28649435	RNA	Gene expression signature
+Excellent_Pathologic_Response_ER.Neg_55_JAMA.2011_PMID.21558518	RNA	Gene expression signature
+Duke_Module09_hypoxia_Mike_PMID.20335537	RNA	Gene expression signature
+aMaSC_Lim09_BCR.2015_PMID.25575446	RNA	Gene expression signature
+aMaSC_Prat_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Extensive_Residual_Diesase_ER.Neg_54_JAMA.2011_PMID.21558518	RNA	Gene expression signature
+MUnknown_30_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+REPLICATION_STRESS_MODEL_Cell.Rep.2018_PMID.29768207	RNA	Gene expression signature
+MUnknown_29_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MSquamous_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+S100A9_A8_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Pcorr_basal_CCR.2010_PMID.20643781	RNA	Gene expression signature
+MM_Red20_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_SW480_cancer_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+BASAL_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Stingl_Down_Basal_High_Nat.Cell.Biol.2014_PMID.25173976	RNA	Gene expression signature
+fMaSC.refined1_PMID.25575446	RNA	Gene expression signature
+HS_Red8_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+LumProg_HsEnriched_Refined1_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Stingl_Up_Basal_High_Nat.Cell.Biol.2014_PMID.25173976	RNA	Gene expression signature
+Pcorr_Squamous_Cell_Carcinoma_JMD.2013_PMID.23701907	RNA	Gene expression signature
+HS_Green21_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MK14_K17_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+EMT_DOWN_Weingberg_PNAS.2010_PMID.20713713	RNA	Gene expression signature
+MM_Green9_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Claudin_Low_29_Cancer.Res.2009_PMID.19435916	RNA	Gene expression signature
+Claudin_Low_Genome.Biol.2007_PMID.17493263	RNA	Gene expression signature
+Stromal_Down_Nat.Med.2009_PMID.19648928	RNA	Gene expression signature
+MS_CD44_DOWN_PNAS.2009_PMID.19666588	RNA	Gene expression signature
+Euclidean_Distance_2_CLOW_Euclidean.Distance_BCR.2010_PMID.20813035	RNA	Gene expression signature
+Scorr_EMAT3_Correlation_BCR.2020_PMID.32641077	RNA	Gene expression signature
+GRB7_Single_Gene	RNA	Gene expression signature
+ERBB3_Single_Gene	RNA	Gene expression signature
+Pcorr_Dasatinib_L_Correlation_Cancer.Res.2007_PMID.17332353	RNA	Gene expression signature
+GATA3.induced.genes_Oncogene.2004_PMID.15361840	RNA	Gene expression signature
+TRIM29_Single_Gene	RNA	Gene expression signature
+MM_Red21_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Lim.et.al.2010.Conserved.Luminal.Progenitor_BCR.2010_PMID.20346151	RNA	Gene expression signature
+MM_Erbb2.like_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+ERBB2_Single_Gene	RNA	Gene expression signature
+UNC_Differentiation.Score_Model_BCR.2010_PMID.20813035	RNA	Gene expression signature
+MatureLum_Prat_BCR.2015_PMID.25575446	RNA	Gene expression signature
+MatureLum_Shehata_BCR.2015_PMID.25575446	RNA	Gene expression signature
+MASC_Down_Nat.Med.2009_PMID.19648928	RNA	Gene expression signature
+HS_Red12_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+GATA3.induced.genes_JCO.2006_PMID.16505416	RNA	Gene expression signature
+Lymphovascular_Invasion_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+Duke_Module08_her2_Mike_PMID.20335537	RNA	Gene expression signature
+FGFR4_Single_Gene	RNA	Gene expression signature
+Unknown_12_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Stromal_Central_Fibrotic_Focus_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+MUnknown_3_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+CDKN2A_Single_Gene	RNA	Gene expression signature
+Unknown_14_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red25_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_11_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_4_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+JANES_Oscillation_JUND_KRT5_Nat.Cell.Biol.2014_PMID.24658685	RNA	Gene expression signature
+MITO1_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+SWARNIMA_T11_Macrophage_T11vsT12TAMS_Cancer.Res.2022_PMID.35442423	RNA	Gene expression signature
+MUnknown_1_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Unknown_11_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Unknown_1_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red16_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Green11_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HouseKeeping_Genome.Biol.2004_PMID.15287981	RNA	Gene expression signature
+Unknown_8_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green24_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+AGE_associated_SOOD_Genome.Biol.2015_PMID.26343147	RNA	Gene expression signature
+MUnknown_25_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_26_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Duke_Module12_lacticacidosis_Mike_PMID.20335537	RNA	Gene expression signature
+MHistone_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green23_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HISTONE_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Late_IRS_2_PLoS.One.2016_PMID.26991655	RNA	Gene expression signature
+MUnknown_35_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Duke_Module15_p63_Mike_PMID.20335537	RNA	Gene expression signature
+Unknown_10_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Shipitsin_CD44_A_Cancer.Cell.2007_PMID.17349583	RNA	Gene expression signature
+MUnknown_21_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Green15_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+fMaSC_Metab_CellRep.2018_PMID.30089273	RNA	Gene expression signature
+fMaSC_Metab8_CellRep.2018_PMID.30089273	RNA	Gene expression signature
+Tumour_hypoxia_causes_DNA_hypermethylation_by_reducing_TET_activity_Nature.2016_PMID.27533040	RNA	Gene expression signature
+Glycolysis_Signature_BMC.Med.2009_PMID.19291283	RNA	Gene expression signature
+IntClust_Deletion.50.Better.than_Genome.Biol.2014_PMID.25164602	RNA	Gene expression signature
+GSEA_MYC_amplified_chr8q24	RNA	Gene expression signature
+IntClust_Deletion.50_Genome.Biol.2014_PMID.25164602	RNA	Gene expression signature
+HS_Red14_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Necrosis_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+Activate.Endothelium_Clin.Exp.Metastasis.2014_PMID.23975155	RNA	Gene expression signature
+MICRORNA_138_Signature_Cancer.Res.2014_PMID.25339353	RNA	Gene expression signature
+Response_to_PARP_inhibitor_olaparib_Sensitivity_BC_Res_Treat_2012_PMID.22875744	RNA	Gene expression signature
+Knudsen_Neo_ER_negative_Clin.Cancer.Res.2014_PMID.25047707	RNA	Gene expression signature
+IMMUNE_Bindea_Cell_Th2_cells_Immunity.2013_PMID.24138885	RNA	Gene expression signature
+PR_Isoform_Ratio_Up_in_PRB_H_JNCI.2017_PMID.28376177	RNA	Gene expression signature
+GSEA_BIOCARTA_RB_PATHWAY	RNA	Gene expression signature
+PIK3CA.Hutti_Cancer.Res.2012_PMID.22552288	RNA	Gene expression signature
+GSEA_BIOCARTA_BRCA_ATR_PATHWAY_ATRBRCA	RNA	Gene expression signature
+C3_TAG_UNTREATED_Usary_Clin.Cancer.Res.2013_PMID.23780888	RNA	Gene expression signature
+Bcells_Centroblast_J.Clin.Oncol.2015_PMID.25800755	RNA	Gene expression signature
+Knudsen_Neo_common_Clin.Cancer.Res.2014_PMID.25047707	RNA	Gene expression signature
+Miller_Proliferation_Metagene_Genome_Biol_2013_PMID.23618380	RNA	Gene expression signature
+RB_LOSS_J.Clin.Invest.2007_PMID.17160137	RNA	Gene expression signature
+HS_Red23_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Proliferation_Cluster_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+TNBC_METABOLITE_HIGH82_MEDIAN_Cancer.Res.2022_PMID.34911787	RNA	Gene expression signature
+bMYB_Signature_Oncogene.2009_PMID.19043454	RNA	Gene expression signature
+MProliferation_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+CIN70_Nat.Genet.2006_PMID.16921376	RNA	Gene expression signature
+HS_Green10_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Stingl_Up_Proliferation_Nat.Cell.Biol.2014_PMID.25173976	RNA	Gene expression signature
+MM_Green19_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Prosigna_Proliferation_18_BMC.Med.Genomics.2015_PMID.26297356	RNA	Gene expression signature
+Histological_Grade_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+MDACC_P53_ER.Pos_CCR.2011_PMID.21248301	RNA	Gene expression signature
+Wirapati_Proliferation_Breast.Cancer.Res.2008_PMID.18662380	RNA	Gene expression signature
+MM_C3Tag.2012_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+RB_LOH_Breast.Cancer.Res.2008_PMID.18782450	RNA	Gene expression signature
+Nuclear_Pleomorphism_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+Late_IRS_1_PLoS.One.2016_PMID.26991655	RNA	Gene expression signature
+Scorr_P53_Mut_Correlation_BMC.Cancer.2006_PMID.17150101	RNA	Gene expression signature
+Scorr_PTEN_Present_Correlation_PNAS.2007_PMID.17452630	RNA	Gene expression signature
+UNC_ROR_S_Model_JCO.2009_PMID.19204204	RNA	Gene expression signature
+UNC_Proliferation_11_Mean_JCO.2009_PMID.19204204	RNA	Gene expression signature
+GHI_RS_Model_NJEM.2004_PMID.15591335	RNA	Gene expression signature
+MM_C3Tag_1pFDR_UP_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+Duke_Module03_betacatenin_Mike_PMID.20335537	RNA	Gene expression signature
+MM_Green6_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red10_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_WAPTag_1pFDR_UP_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+MM_Red5_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red13_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Pcorr_CSR_Activated_Correlation_PNAS.2005_PMID.15701700	RNA	Gene expression signature
+Mitotic_Count_J.Pathol.2017_PMID.27861902	RNA	Gene expression signature
+Knudsen_Neo_ER_positive_Clin.Cancer.Res.2014_PMID.25047707	RNA	Gene expression signature
+HS_Red1_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Scorr_IIE_Correlation_JCO.2006_PMID.16505416	RNA	Gene expression signature
+Endothelial_Normal_EC_high_Angiogenesis_2014_PMID.24257808	RNA	Gene expression signature
+Mouse_Human_ImmuneProfiles_SHAY_M_H_Induced_in_HSC_PNAS.2013_PMID.23382184	RNA	Gene expression signature
+Stingl_Day7_Upregulated_Nat.Cell.Biol.2014_PMID.25173976	RNA	Gene expression signature
+HER1_Cluster2_BMC.Genomics.2007_PMID.17663798	RNA	Gene expression signature
+HS_Green5_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_7_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_27_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HER1_Cluster1_BMC.Genomics.2007_PMID.17663798	RNA	Gene expression signature
+MUnknown_6_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red6_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Red4_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MM_Myc.2012_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+MM_Red11_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+fMaSC_Signature_CellRep.2018_PMID.30089273	RNA	Gene expression signature
+Duke_Module13_myc_Mike_PMID.20335537	RNA	Gene expression signature
+MM_Green2_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_13_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+MUnknown_12_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HER1_Cluster3_BMC.Genomics.2007_PMID.17663798	RNA	Gene expression signature
+MCF7.E2.induced.genes_JCO.2006_PMID.16505416	RNA	Gene expression signature
+Duke_Module18_ras_Mike_PMID.20335537	RNA	Gene expression signature
+MM_BRCAwnt_1pFDR_UP_Genome.Biology.2007_PMID.17493263	RNA	Gene expression signature
+STING_Activity_Median_of_25_genes_at_P27_Breast.Cancer.2021_PMID.34172750	RNA	Gene expression signature
+Inflammatory_Breast_Cancer_79_IBC_CCR.2013_PMID.23396049	RNA	Gene expression signature
+HS_Green2_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+FGFR4_Induced_JCI.2020_PMID.32573490	RNA	Gene expression signature
+MM_p53null.Luminal_Genome.Biol.2013_PMID.24220145	RNA	Gene expression signature
+IntClust_Amplification.50.Better.than_Genome.Biol.2014_PMID.25164602	RNA	Gene expression signature
+IntClust_Amplification.50_Genome.Biol.2014_PMID.25164602	RNA	Gene expression signature
+Unknown_5_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Unknown_7_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+HS_Red15_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+Duke_Module04_e2f1_Mike_PMID.20335537	RNA	Gene expression signature
+Duke_Module16_pi3k_Mike_PMID.20335537	RNA	Gene expression signature
+UNC_Scorr_Basal_Correlation_JCO.2009_PMID.19204204	RNA	Gene expression signature
+Scorr_EMAT4_Correlation_BCR.2020_PMID.32641077	RNA	Gene expression signature
+UNC_Scorr_Her2_Correlation_JCO.2009_PMID.19204204	RNA	Gene expression signature
+Taube_EMT_down_PNAS.2010_PMID.20713713	RNA	Gene expression signature
+MET_UP_Significant_Genes_HIGH_BASALS_Genes_JCI.2018_PMID.29480819	RNA	Gene expression signature
+Pcorr_magnoid_PLOS.2012_PMID.22590557	RNA	Gene expression signature
+NK_Cell_Sensitive_Mesenchymal_Signature_Nat.Genet.2021_PMID.34253920	RNA	Gene expression signature
+HIGHLY_REFRACTORY_TUMORS_129_gene_signature_Clin.Cancer.Res_PMID.34168046	RNA	Gene expression signature
+LumProg_Shehata_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Shehata2012_LumProg_PMID.25575446	RNA	Gene expression signature
+LumProg_Lim09_BCR.2015_PMID.25575446	RNA	Gene expression signature
+LumProg_Prat_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Lim2009_LumProg_Adam_PMID.25575446	RNA	Gene expression signature
+Pfefferle2012_LumProg_PMID.25575446	RNA	Gene expression signature
+LumProg_HsEnriched_BCR.2015_PMID.25575446	RNA	Gene expression signature
+Luminal_Progenitor_Up_Nat.Med.2009_PMID.19648928	RNA	Gene expression signature
+Shehata2012_ALDHpos_PMID.25575446	RNA	Gene expression signature
+Excellent_Pathologic_Response_ER.Pos_39_JAMA.2011_PMID.21558518	RNA	Gene expression signature
+Response_to_PARP_inhibitor_olaparib_Resistance_BC_Res_Treat_2012_PMID.22875744	RNA	Gene expression signature
+MRE_Score_Breast.Cancer.Res.Treat_2015_PMID.26109344	RNA	Gene expression signature
+IMS_Score_Clin.Cancer.Res.2018_PMID.29921729	RNA	Gene expression signature
+UNC_Scorr_LumB_Correlation_JCO.2009_PMID.19204204	RNA	Gene expression signature
+NRAS_Single_Gene	RNA	Gene expression signature
+MUnknown_32_BMC.Med.Genomics.2011_PMID.21214954	RNA	Gene expression signature
+FOXC1_Single_Gene	RNA	Gene expression signature
+Scorr_S329_R_Correlation_Br.J.Cancer.2008_PMID.18382427	RNA	Gene expression signature
+XRT_inducedgenes_Oh_PMID.24527691	RNA	Gene expression signature
+Pcorr_Breast2Lung_Parental_Correlation_Nature.2005_PMID.16049480	RNA	Gene expression signature
+Pcorr_Hypoxia_Low_Correlation_PLoS.Med.2006_PMID.16417408	RNA	Gene expression signature
+CD103_Ratio_Cancer.Cell.2014_PMID.25446897	RNA	Gene expression signature
+MYC_Single_Gene	RNA	Gene expression signature
+Pcorr_Adenocarcinoma_JMD.2013_PMID.23701907	RNA	Gene expression signature
+Pcorr_primitive_CCR.2010_PMID.20643781	RNA	Gene expression signature
+PLB1_mutation	DNA	Gene mutation
+HDAC4_mutation	DNA	Gene mutation
+FGFR4_mutation	DNA	Gene mutation
+SOX17_mutation	DNA	Gene mutation
+RAD21_mutation	DNA	Gene mutation
+RECQL4_mutation	DNA	Gene mutation
+SH2B3_mutation	DNA	Gene mutation
+TP53_mutation	DNA	Gene mutation
+LASP1_mutation	DNA	Gene mutation
+NUTM1_mutation	DNA	Gene mutation
+CDH1_mutation	DNA	Gene mutation
+TCF3_mutation	DNA	Gene mutation
+APC_mutation	DNA	Gene mutation
+FOXO1_mutation	DNA	Gene mutation
+ADCY4_mutation	DNA	Gene mutation
+NIN_mutation	DNA	Gene mutation
+TSC2_mutation	DNA	Gene mutation
+MIB1_mutation	DNA	Gene mutation
+MT-ND5_mutation	DNA	Gene mutation
+ERRFI1_mutation	DNA	Gene mutation
+DPYD_mutation	DNA	Gene mutation
+TXNIP_mutation	DNA	Gene mutation
+MCL1_mutation	DNA	Gene mutation
+SCN9A_mutation	DNA	Gene mutation
+EPHA7_mutation	DNA	Gene mutation
+HRNR_mutation	DNA	Gene mutation
+FAT1_mutation	DNA	Gene mutation
+CUX1_mutation	DNA	Gene mutation
+RALGDS_mutation	DNA	Gene mutation
+NOTCH3_mutation	DNA	Gene mutation
+MSN_mutation	DNA	Gene mutation
+STAT4_mutation	DNA	Gene mutation
+LYN_mutation	DNA	Gene mutation
+NFKB2_mutation	DNA	Gene mutation
+RARA_mutation	DNA	Gene mutation
+DOT1L_mutation	DNA	Gene mutation
+CREB1_mutation	DNA	Gene mutation
+PTK7_mutation	DNA	Gene mutation
+KMT2C_mutation	DNA	Gene mutation
+HNRNPK_mutation	DNA	Gene mutation
+NOTCH1_mutation	DNA	Gene mutation
+PTEN_mutation	DNA	Gene mutation
+KMT2D_mutation	DNA	Gene mutation
+GNAS_mutation	DNA	Gene mutation
+MSH6_mutation	DNA	Gene mutation
+GRIA2_mutation	DNA	Gene mutation
+RAD50_mutation	DNA	Gene mutation
+CARD11_mutation	DNA	Gene mutation
+RUNX1T1_mutation	DNA	Gene mutation
+SLC1A2_mutation	DNA	Gene mutation
+BIRC3_mutation	DNA	Gene mutation
+DDX10_mutation	DNA	Gene mutation
+ARID2_mutation	DNA	Gene mutation
+RB1_mutation	DNA	Gene mutation
+FUS_mutation	DNA	Gene mutation
+ZFHX3_mutation	DNA	Gene mutation
+FANCA_mutation	DNA	Gene mutation
+BRCA1_mutation	DNA	Gene mutation
+CCNE1_mutation	DNA	Gene mutation
+TAF1_mutation	DNA	Gene mutation
+SF3B1_mutation	DNA	Gene mutation
+TACC3_mutation	DNA	Gene mutation
+COL1A2_mutation	DNA	Gene mutation
+KAT6A_mutation	DNA	Gene mutation
+FANCF_mutation	DNA	Gene mutation
+ERC1_mutation	DNA	Gene mutation
+ERCC1_mutation	DNA	Gene mutation
+PTK6_mutation	DNA	Gene mutation
+EP300_mutation	DNA	Gene mutation
+MT-ND1_mutation	DNA	Gene mutation
+ARAF_mutation	DNA	Gene mutation
+EPHA10_mutation	DNA	Gene mutation
+DUSP2_mutation	DNA	Gene mutation
+SEMA3C_mutation	DNA	Gene mutation
+SYK_mutation	DNA	Gene mutation
+ROR2_mutation	DNA	Gene mutation
+CREBBP_mutation	DNA	Gene mutation
+AXL_mutation	DNA	Gene mutation
+MED12_mutation	DNA	Gene mutation
+CSMD3_mutation	DNA	Gene mutation
+CIC_mutation	DNA	Gene mutation
+GPC3_mutation	DNA	Gene mutation
+ACSL3_mutation	DNA	Gene mutation
+ARHGAP26_mutation	DNA	Gene mutation
+RABEP1_mutation	DNA	Gene mutation
+MT-ND4_mutation	DNA	Gene mutation
+CASZ1_mutation	DNA	Gene mutation
+MDM4_mutation	DNA	Gene mutation
+USP8_mutation	DNA	Gene mutation
+BCOR_mutation	DNA	Gene mutation
+RRM2_mutation	DNA	Gene mutation
+ANLN_mutation	DNA	Gene mutation
+SMC3_mutation	DNA	Gene mutation
+WDR90_mutation	DNA	Gene mutation
+E2F1_mutation	DNA	Gene mutation
+SOX10_mutation	DNA	Gene mutation
+SMARCA1_mutation	DNA	Gene mutation
+NOTCH2_mutation	DNA	Gene mutation
+UGT1A1_mutation	DNA	Gene mutation
+CACNA1D_mutation	DNA	Gene mutation
+EPHB1_mutation	DNA	Gene mutation
+PIK3CA_mutation	DNA	Gene mutation
+JARID2_mutation	DNA	Gene mutation
+EYA4_mutation	DNA	Gene mutation
+EGFR_mutation	DNA	Gene mutation
+PCM1_mutation	DNA	Gene mutation
+WAS_mutation	DNA	Gene mutation
+FBXW7_mutation	DNA	Gene mutation
+RELN_mutation	DNA	Gene mutation
+ETNK1_mutation	DNA	Gene mutation
+FRS2_mutation	DNA	Gene mutation
+MYO5A_mutation	DNA	Gene mutation
+ERCC4_mutation	DNA	Gene mutation
+HOXB13_mutation	DNA	Gene mutation
+ZNF217_mutation	DNA	Gene mutation
+NSD1_mutation	DNA	Gene mutation
+CDC42SE1_mutation	DNA	Gene mutation
+SGK1_mutation	DNA	Gene mutation
+CNGA4_mutation	DNA	Gene mutation
+KDM6A_mutation	DNA	Gene mutation
+MAP3K6_mutation	DNA	Gene mutation
+TRIM33_mutation	DNA	Gene mutation
+PAX8_mutation	DNA	Gene mutation
+PPARG_mutation	DNA	Gene mutation
+FLT4_mutation	DNA	Gene mutation
+MAGI2_mutation	DNA	Gene mutation
+FAM131B_mutation	DNA	Gene mutation
+CCND1_mutation	DNA	Gene mutation
+KMT2B_mutation	DNA	Gene mutation
+AKT1_mutation	DNA	Gene mutation
+EPHA2_mutation	DNA	Gene mutation
+ANKRD17_mutation	DNA	Gene mutation
+RINT1_mutation	DNA	Gene mutation
+KCNH2_mutation	DNA	Gene mutation
+PDCD11_mutation	DNA	Gene mutation
+SETBP1_mutation	DNA	Gene mutation
+BCL2_mutation	DNA	Gene mutation
+ERCC2_mutation	DNA	Gene mutation
+CDH4_mutation	DNA	Gene mutation
+PDGFB_mutation	DNA	Gene mutation
+SLC45A3_mutation	DNA	Gene mutation
+NFIB_mutation	DNA	Gene mutation
+MUC1_mutation	DNA	Gene mutation
+ABL1_mutation	DNA	Gene mutation
+NUP98_mutation	DNA	Gene mutation
+CENPF_mutation	DNA	Gene mutation
+MAP3K14_mutation	DNA	Gene mutation
+FH_mutation	DNA	Gene mutation
+AKT3_mutation	DNA	Gene mutation
+INPP5D_mutation	DNA	Gene mutation
+FGFR3_mutation	DNA	Gene mutation
+TRIM27_mutation	DNA	Gene mutation
+PHF1_mutation	DNA	Gene mutation
+AFF3_mutation	DNA	Gene mutation
+TNFAIP3_mutation	DNA	Gene mutation
+HECW1_mutation	DNA	Gene mutation
+NCOR2_mutation	DNA	Gene mutation
+PIK3R1_mutation	DNA	Gene mutation
+SNX29_mutation	DNA	Gene mutation
+CDH11_mutation	DNA	Gene mutation
+KDM4C_mutation	DNA	Gene mutation
+CNTRL_mutation	DNA	Gene mutation
+ALOX5_mutation	DNA	Gene mutation
+TBX3_mutation	DNA	Gene mutation
+TCF4_mutation	DNA	Gene mutation
+NUP214_mutation	DNA	Gene mutation
+MAML2_mutation	DNA	Gene mutation
+PGR_mutation	DNA	Gene mutation
+COL2A1_mutation	DNA	Gene mutation
+ERBB4_mutation	DNA	Gene mutation
+EIF4A2_mutation	DNA	Gene mutation
+BNC2_mutation	DNA	Gene mutation
+CHD4_mutation	DNA	Gene mutation
+ACTG1_mutation	DNA	Gene mutation
+ZNF750_mutation	DNA	Gene mutation
+PIK3C2B_mutation	DNA	Gene mutation
+SCN5A_mutation	DNA	Gene mutation
+BAP1_mutation	DNA	Gene mutation
+ZNF703_mutation	DNA	Gene mutation
+DDIT4_mutation	DNA	Gene mutation
+PC_mutation	DNA	Gene mutation
+RBM15_mutation	DNA	Gene mutation
+BCL11A_mutation	DNA	Gene mutation
+HOXD13_mutation	DNA	Gene mutation
+ROS1_mutation	DNA	Gene mutation
+HGF_mutation	DNA	Gene mutation
+CYP3A4_mutation	DNA	Gene mutation
+XRCC2_mutation	DNA	Gene mutation
+GATA4_mutation	DNA	Gene mutation
+KLF4_mutation	DNA	Gene mutation
+NUMA1_mutation	DNA	Gene mutation
+DICER1_mutation	DNA	Gene mutation
+PER1_mutation	DNA	Gene mutation
+ABCA10_mutation	DNA	Gene mutation
+MALT1_mutation	DNA	Gene mutation
+RPGR_mutation	DNA	Gene mutation
+CTCF_mutation	DNA	Gene mutation
+NF1_mutation	DNA	Gene mutation
+ZCCHC12_mutation	DNA	Gene mutation
+CYP3A5_mutation	DNA	Gene mutation
+CHD2_mutation	DNA	Gene mutation
+ELP2_mutation	DNA	Gene mutation
+NCOA3_mutation	DNA	Gene mutation
+MET_mutation	DNA	Gene mutation
+PTK2_mutation	DNA	Gene mutation
+ZFP36L1_mutation	DNA	Gene mutation
+FUBP1_mutation	DNA	Gene mutation
+CAD_mutation	DNA	Gene mutation
+PALLD_mutation	DNA	Gene mutation
+PDGFRB_mutation	DNA	Gene mutation
+MAX_mutation	DNA	Gene mutation
+SMAD6_mutation	DNA	Gene mutation
+IL21R_mutation	DNA	Gene mutation
+AURKA_mutation	DNA	Gene mutation
+FANCB_mutation	DNA	Gene mutation
+GATA1_mutation	DNA	Gene mutation
+EXO1_mutation	DNA	Gene mutation
+PASK_mutation	DNA	Gene mutation
+SRGAP3_mutation	DNA	Gene mutation
+SOX4_mutation	DNA	Gene mutation
+BRAF_mutation	DNA	Gene mutation
+PSIP1_mutation	DNA	Gene mutation
+PICALM_mutation	DNA	Gene mutation
+ATM_mutation	DNA	Gene mutation
+KMT2A_mutation	DNA	Gene mutation
+PPFIBP1_mutation	DNA	Gene mutation
+SHKBP1_mutation	DNA	Gene mutation
+ZMYND8_mutation	DNA	Gene mutation
+ATRX_mutation	DNA	Gene mutation
+RICTOR_mutation	DNA	Gene mutation
+STK11_mutation	DNA	Gene mutation
+NRIP1_mutation	DNA	Gene mutation
+SMARCB1_mutation	DNA	Gene mutation
+NRP1_mutation	DNA	Gene mutation
+BRIP1_mutation	DNA	Gene mutation
+SDHB_mutation	DNA	Gene mutation
+ETV5_mutation	DNA	Gene mutation
+CDH6_mutation	DNA	Gene mutation
+ZCCHC8_mutation	DNA	Gene mutation
+PIK3R2_mutation	DNA	Gene mutation
+MYCN_mutation	DNA	Gene mutation
+ACTB_mutation	DNA	Gene mutation
+TRRAP_mutation	DNA	Gene mutation
+TET2_mutation	DNA	Gene mutation
+PTPRK_mutation	DNA	Gene mutation
+NKX3-1_mutation	DNA	Gene mutation
+PRKDC_mutation	DNA	Gene mutation
+BRCA2_mutation	DNA	Gene mutation
+RPTOR_mutation	DNA	Gene mutation
+CYP2B6_mutation	DNA	Gene mutation
+PIM3_mutation	DNA	Gene mutation
+PWWP2A_mutation	DNA	Gene mutation
+TCHH_mutation	DNA	Gene mutation
+YY1AP1_mutation	DNA	Gene mutation
+FGF14_mutation	DNA	Gene mutation
+RBM10_mutation	DNA	Gene mutation
+MAGED1_mutation	DNA	Gene mutation
+EPS15_mutation	DNA	Gene mutation
+ALDH2_mutation	DNA	Gene mutation
+AMER1_mutation	DNA	Gene mutation
+RANBP2_mutation	DNA	Gene mutation
+HIP1_mutation	DNA	Gene mutation
+SFPQ_mutation	DNA	Gene mutation
+KLF5_mutation	DNA	Gene mutation
+RAD51D_mutation	DNA	Gene mutation
+SOX9_mutation	DNA	Gene mutation
+ALK_mutation	DNA	Gene mutation
+STAT1_mutation	DNA	Gene mutation
+AQP12A_mutation	DNA	Gene mutation
+EXT2_mutation	DNA	Gene mutation
+BDP1_mutation	DNA	Gene mutation
+KIAA1549_mutation	DNA	Gene mutation
+CDKN2A_mutation	DNA	Gene mutation
+KPNB1_mutation	DNA	Gene mutation
+AFF1_mutation	DNA	Gene mutation
+EED_mutation	DNA	Gene mutation
+AXIN2_mutation	DNA	Gene mutation
+FIP1L1_mutation	DNA	Gene mutation
+MUC6_mutation	DNA	Gene mutation
+LRIG3_mutation	DNA	Gene mutation
+ZMYM3_mutation	DNA	Gene mutation
+KDR_mutation	DNA	Gene mutation
+EPHA5_mutation	DNA	Gene mutation
+PRDM1_mutation	DNA	Gene mutation
+UBR5_mutation	DNA	Gene mutation
+SET_mutation	DNA	Gene mutation
+CCDC6_mutation	DNA	Gene mutation
+KAT6B_mutation	DNA	Gene mutation
+MYOD1_mutation	DNA	Gene mutation
+CIITA_mutation	DNA	Gene mutation
+STAT3_mutation	DNA	Gene mutation
+SMC1A_mutation	DNA	Gene mutation
+RAD54L_mutation	DNA	Gene mutation
+SDC4_mutation	DNA	Gene mutation
+ABL2_mutation	DNA	Gene mutation
+GABRA6_mutation	DNA	Gene mutation
+CHCHD7_mutation	DNA	Gene mutation
+FANCG_mutation	DNA	Gene mutation
+MLLT10_mutation	DNA	Gene mutation
+TUBB6_mutation	DNA	Gene mutation
+MGA_mutation	DNA	Gene mutation
+JAK1_mutation	DNA	Gene mutation
+MKI67_mutation	DNA	Gene mutation
+BCL11B_mutation	DNA	Gene mutation
+GAS7_mutation	DNA	Gene mutation
+JAK3_mutation	DNA	Gene mutation
+FOXL2_mutation	DNA	Gene mutation
+PRKCI_mutation	DNA	Gene mutation
+NDRG1_mutation	DNA	Gene mutation
+GUCY1A2_mutation	DNA	Gene mutation
+ZNF770_mutation	DNA	Gene mutation
+SMARCA4_mutation	DNA	Gene mutation
+CD22_mutation	DNA	Gene mutation
+ELF4_mutation	DNA	Gene mutation
+BTK_mutation	DNA	Gene mutation
+CSF3R_mutation	DNA	Gene mutation
+PIK3CG_mutation	DNA	Gene mutation
+FEV_mutation	DNA	Gene mutation
+BRSK1_mutation	DNA	Gene mutation
+MT-ND2_mutation	DNA	Gene mutation
+RHOB_mutation	DNA	Gene mutation
+MAP3K1_mutation	DNA	Gene mutation
+PTK2B_mutation	DNA	Gene mutation
+PTPN11_mutation	DNA	Gene mutation
+ARHGAP35_mutation	DNA	Gene mutation
+CXCR4_mutation	DNA	Gene mutation
+GEN1_mutation	DNA	Gene mutation
+EPAS1_mutation	DNA	Gene mutation
+ERCC3_mutation	DNA	Gene mutation
+EZR_mutation	DNA	Gene mutation
+NCOR1_mutation	DNA	Gene mutation
+CHEK2_mutation	DNA	Gene mutation
+PATZ1_mutation	DNA	Gene mutation
+GTSE1_mutation	DNA	Gene mutation
+ATP1A1_mutation	DNA	Gene mutation
+SETDB1_mutation	DNA	Gene mutation
+NR4A3_mutation	DNA	Gene mutation
+CYP2C19_mutation	DNA	Gene mutation
+BRD4_mutation	DNA	Gene mutation
+LMNA_mutation	DNA	Gene mutation
+NCOA2_mutation	DNA	Gene mutation
+RXRA_mutation	DNA	Gene mutation
+AFF2_mutation	DNA	Gene mutation
+BCL9_mutation	DNA	Gene mutation
+INPP4B_mutation	DNA	Gene mutation
+MSH3_mutation	DNA	Gene mutation
+TCP11_mutation	DNA	Gene mutation
+INHBA_mutation	DNA	Gene mutation
+PTPRD_mutation	DNA	Gene mutation
+TSC1_mutation	DNA	Gene mutation
+TLL2_mutation	DNA	Gene mutation
+DDB2_mutation	DNA	Gene mutation
+PCSK7_mutation	DNA	Gene mutation
+FLT3_mutation	DNA	Gene mutation
+PRSS8_mutation	DNA	Gene mutation
+MYO18A_mutation	DNA	Gene mutation
+MAFB_mutation	DNA	Gene mutation
+MECOM_mutation	DNA	Gene mutation
+HSP90AB1_mutation	DNA	Gene mutation
+DDIT3_mutation	DNA	Gene mutation
+PTPRC_mutation	DNA	Gene mutation
+ABCC5_mutation	DNA	Gene mutation
+SEC31A_mutation	DNA	Gene mutation
+IKBKB_mutation	DNA	Gene mutation
+LSM14A_mutation	DNA	Gene mutation
+NONO_mutation	DNA	Gene mutation
+BCORL1_mutation	DNA	Gene mutation
+CYP2A6_mutation	DNA	Gene mutation
+CDC73_mutation	DNA	Gene mutation
+HNF1A_mutation	DNA	Gene mutation
+HSP90AA1_mutation	DNA	Gene mutation
+TYK2_mutation	DNA	Gene mutation
+IRF1_mutation	DNA	Gene mutation
+CDK12_mutation	DNA	Gene mutation
+RBMX_mutation	DNA	Gene mutation
+TRAF5_mutation	DNA	Gene mutation
+TSHR_mutation	DNA	Gene mutation
+TOP1_mutation	DNA	Gene mutation
+LZTR1_mutation	DNA	Gene mutation
+BRD3_mutation	DNA	Gene mutation
+PLCG2_mutation	DNA	Gene mutation
+GSTM1_mutation	DNA	Gene mutation
+CD58_mutation	DNA	Gene mutation
+MERTK_mutation	DNA	Gene mutation
+ATIC_mutation	DNA	Gene mutation
+SETD2_mutation	DNA	Gene mutation
+SNCAIP_mutation	DNA	Gene mutation
+ADRB2_mutation	DNA	Gene mutation
+DUSP22_mutation	DNA	Gene mutation
+PMS2_mutation	DNA	Gene mutation
+CD36_mutation	DNA	Gene mutation
+ABCB1_mutation	DNA	Gene mutation
+KEL_mutation	DNA	Gene mutation
+ADGRA2_mutation	DNA	Gene mutation
+RASGEF1A_mutation	DNA	Gene mutation
+FGF19_mutation	DNA	Gene mutation
+KCNJ5_mutation	DNA	Gene mutation
+LRRK2_mutation	DNA	Gene mutation
+NACA_mutation	DNA	Gene mutation
+GLI1_mutation	DNA	Gene mutation
+POLE_mutation	DNA	Gene mutation
+B2M_mutation	DNA	Gene mutation
+TCF12_mutation	DNA	Gene mutation
+PML_mutation	DNA	Gene mutation
+FANCI_mutation	DNA	Gene mutation
+WWOX_mutation	DNA	Gene mutation
+SRSF2_mutation	DNA	Gene mutation
+TNFRSF11A_mutation	DNA	Gene mutation
+MYBL2_mutation	DNA	Gene mutation
+GAL3ST1_mutation	DNA	Gene mutation
+IRS4_mutation	DNA	Gene mutation
+BRINP3_mutation	DNA	Gene mutation
+CYP2C8_mutation	DNA	Gene mutation
+TOP2A_mutation	DNA	Gene mutation
+ARID1A_mutation	DNA	Gene mutation
+ARID4B_mutation	DNA	Gene mutation
+RSPO3_mutation	DNA	Gene mutation
+GPC6_mutation	DNA	Gene mutation
+DCTN1_mutation	DNA	Gene mutation
+ARID5A_mutation	DNA	Gene mutation
+HIF1A_mutation	DNA	Gene mutation
+APOBEC3B_mutation	DNA	Gene mutation
+NBN_mutation	DNA	Gene mutation
+TCERG1_mutation	DNA	Gene mutation
+KLF6_mutation	DNA	Gene mutation
+SLX4_mutation	DNA	Gene mutation
+CANT1_mutation	DNA	Gene mutation
+SMAD2_mutation	DNA	Gene mutation
+ZRSR2_mutation	DNA	Gene mutation
+TFE3_mutation	DNA	Gene mutation
+EZH2_mutation	DNA	Gene mutation
+NT5C2_mutation	DNA	Gene mutation
+CLTCL1_mutation	DNA	Gene mutation
+CUL3_mutation	DNA	Gene mutation
+MLH1_mutation	DNA	Gene mutation
+GOPC_mutation	DNA	Gene mutation
+ECT2L_mutation	DNA	Gene mutation
+MTUS2_mutation	DNA	Gene mutation
+ARID3A_mutation	DNA	Gene mutation
+CBLB_mutation	DNA	Gene mutation
+FANCL_mutation	DNA	Gene mutation
+FANCD2_mutation	DNA	Gene mutation
+BCL6_mutation	DNA	Gene mutation
+HEY1_mutation	DNA	Gene mutation
+LMO2_mutation	DNA	Gene mutation
+RHBG_mutation	DNA	Gene mutation
+NCOA1_mutation	DNA	Gene mutation
+DRD2_mutation	DNA	Gene mutation
+MYH11_mutation	DNA	Gene mutation
+USP6_mutation	DNA	Gene mutation
+RASA1_mutation	DNA	Gene mutation
+PIK3C3_mutation	DNA	Gene mutation
+MST1_mutation	DNA	Gene mutation
+FGF6_mutation	DNA	Gene mutation
+KDM5C_mutation	DNA	Gene mutation
+CTNNA1_mutation	DNA	Gene mutation
+TPMT_mutation	DNA	Gene mutation
+NFKBIE_mutation	DNA	Gene mutation
+PPP2R1A_mutation	DNA	Gene mutation
+KCNN3_mutation	DNA	Gene mutation
+KTN1_mutation	DNA	Gene mutation
+PDGFRA_mutation	DNA	Gene mutation
+GNA13_mutation	DNA	Gene mutation
+SLC34A2_mutation	DNA	Gene mutation
+NCSTN_mutation	DNA	Gene mutation
+DNMT3A_mutation	DNA	Gene mutation
+CASP8_mutation	DNA	Gene mutation
+WWTR1_mutation	DNA	Gene mutation
+NUP93_mutation	DNA	Gene mutation
+FOXQ1_mutation	DNA	Gene mutation
+GALNT12_mutation	DNA	Gene mutation
+RNF43_mutation	DNA	Gene mutation
+BLM_mutation	DNA	Gene mutation
+ELN_mutation	DNA	Gene mutation
+PAG1_mutation	DNA	Gene mutation
+VHL_mutation	DNA	Gene mutation
+SDHA_mutation	DNA	Gene mutation
+DEPTOR_mutation	DNA	Gene mutation
+BCL10_mutation	DNA	Gene mutation
+IDH1_mutation	DNA	Gene mutation
+TCERG1L_mutation	DNA	Gene mutation
+COMT_mutation	DNA	Gene mutation
+TP63_mutation	DNA	Gene mutation
+FANCM_mutation	DNA	Gene mutation
+CD274_mutation	DNA	Gene mutation
+PHB_mutation	DNA	Gene mutation
+POLD1_mutation	DNA	Gene mutation
+TCEA1_mutation	DNA	Gene mutation
+ATP2B3_mutation	DNA	Gene mutation
+PBX1_mutation	DNA	Gene mutation
+MYD88_mutation	DNA	Gene mutation
+BUB1B_mutation	DNA	Gene mutation
+STAT2_mutation	DNA	Gene mutation
+RET_mutation	DNA	Gene mutation
+CDX2_mutation	DNA	Gene mutation
+PAX3_mutation	DNA	Gene mutation
+RSPO2_mutation	DNA	Gene mutation
+ATAD2_mutation	DNA	Gene mutation
+ARID5B_mutation	DNA	Gene mutation
+HDAC7_mutation	DNA	Gene mutation
+PALB2_mutation	DNA	Gene mutation
+FANCE_mutation	DNA	Gene mutation
+ADM_mutation	DNA	Gene mutation
+PARP4_mutation	DNA	Gene mutation
+DDX3X_mutation	DNA	Gene mutation
+PDCD1_mutation	DNA	Gene mutation
+CEP89_mutation	DNA	Gene mutation
+TET1_mutation	DNA	Gene mutation
+ZNF384_mutation	DNA	Gene mutation
+CHD1_mutation	DNA	Gene mutation
+WT1_mutation	DNA	Gene mutation
+EXT1_mutation	DNA	Gene mutation
+IRS2_mutation	DNA	Gene mutation
+NTRK1_mutation	DNA	Gene mutation
+TEC_mutation	DNA	Gene mutation
+STIL_mutation	DNA	Gene mutation
+MAF_mutation	DNA	Gene mutation
+NAB2_mutation	DNA	Gene mutation
+FLYWCH1_mutation	DNA	Gene mutation
+NOD1_mutation	DNA	Gene mutation
+SND1_mutation	DNA	Gene mutation
+PTPN6_mutation	DNA	Gene mutation
+GPHN_mutation	DNA	Gene mutation
+MLH3_mutation	DNA	Gene mutation
+CAMTA1_mutation	DNA	Gene mutation
+AKT2_mutation	DNA	Gene mutation
+MYO1B_mutation	DNA	Gene mutation
+HLA-B_mutation	DNA	Gene mutation
+GNA12_mutation	DNA	Gene mutation
+GMPS_mutation	DNA	Gene mutation
+DNM2_mutation	DNA	Gene mutation
+SMAD1_mutation	DNA	Gene mutation
+LCK_mutation	DNA	Gene mutation
+IKBKE_mutation	DNA	Gene mutation
+XPC_mutation	DNA	Gene mutation
+DRD5_mutation	DNA	Gene mutation
+NQO2_mutation	DNA	Gene mutation
+PAX5_mutation	DNA	Gene mutation
+GPRIN2_mutation	DNA	Gene mutation
+FGF4_mutation	DNA	Gene mutation
+KDM5A_mutation	DNA	Gene mutation
+KDM2B_mutation	DNA	Gene mutation
+BCL7A_mutation	DNA	Gene mutation
+CLIP1_mutation	DNA	Gene mutation
+FLT1_mutation	DNA	Gene mutation
+IGF1R_mutation	DNA	Gene mutation
+CBFA2T3_mutation	DNA	Gene mutation
+MAP2K4_mutation	DNA	Gene mutation
+NFATC2_mutation	DNA	Gene mutation
+CRKL_mutation	DNA	Gene mutation
+FAS_mutation	DNA	Gene mutation
+KIF2C_mutation	DNA	Gene mutation
+IKZF2_mutation	DNA	Gene mutation
+MLF1_mutation	DNA	Gene mutation
+IRF8_mutation	DNA	Gene mutation
+FLCN_mutation	DNA	Gene mutation
+KRAS_mutation	DNA	Gene mutation
+SPOP_mutation	DNA	Gene mutation
+MTOR_mutation	DNA	Gene mutation
+CSF1_mutation	DNA	Gene mutation
+CPS1_mutation	DNA	Gene mutation
+IL7R_mutation	DNA	Gene mutation
+TFEB_mutation	DNA	Gene mutation
+SMAD7_mutation	DNA	Gene mutation
+SH3GL1_mutation	DNA	Gene mutation
+ASMTL_mutation	DNA	Gene mutation
+CD79B_mutation	DNA	Gene mutation
+POT1_mutation	DNA	Gene mutation
+OR9A2_mutation	DNA	Gene mutation
+IL3_mutation	DNA	Gene mutation
+HOXA3_mutation	DNA	Gene mutation
+MEF2B_mutation	DNA	Gene mutation
+FGFR1_mutation	DNA	Gene mutation
+PTPRO_mutation	DNA	Gene mutation
+XBP1_mutation	DNA	Gene mutation
+SRSF3_mutation	DNA	Gene mutation
+FGF23_mutation	DNA	Gene mutation
+HERPUD1_mutation	DNA	Gene mutation
+GRM3_mutation	DNA	Gene mutation
+ABI1_mutation	DNA	Gene mutation
+NTRK3_mutation	DNA	Gene mutation
+MN1_mutation	DNA	Gene mutation
+ZBTB2_mutation	DNA	Gene mutation
+PTPN22_mutation	DNA	Gene mutation
+CCNI_mutation	DNA	Gene mutation
+ADAMTS6_mutation	DNA	Gene mutation
+TLX1_mutation	DNA	Gene mutation
+MAP7_mutation	DNA	Gene mutation
+TRIM24_mutation	DNA	Gene mutation
+CRLF2_mutation	DNA	Gene mutation
+PLAG1_mutation	DNA	Gene mutation
+ARID1B_mutation	DNA	Gene mutation
+NF2_mutation	DNA	Gene mutation
+EPHA3_mutation	DNA	Gene mutation
+PRDM16_mutation	DNA	Gene mutation
+ZBTB20_mutation	DNA	Gene mutation
+PDPK1_mutation	DNA	Gene mutation
+KIT_mutation	DNA	Gene mutation
+NCKIPSD_mutation	DNA	Gene mutation
+POU5F1_mutation	DNA	Gene mutation
+STAT6_mutation	DNA	Gene mutation
+AR_mutation	DNA	Gene mutation
+SOCS3_mutation	DNA	Gene mutation
+PIM2_mutation	DNA	Gene mutation
+MYC_mutation	DNA	Gene mutation
+JAK2_mutation	DNA	Gene mutation
+PPM1D_mutation	DNA	Gene mutation
+ACVR1_mutation	DNA	Gene mutation
+HOXD4_mutation	DNA	Gene mutation
+HNRNPA2B1_mutation	DNA	Gene mutation
+NTRK2_mutation	DNA	Gene mutation
+FGFR2_mutation	DNA	Gene mutation
+OR2D2_mutation	DNA	Gene mutation
+ZMYM2_mutation	DNA	Gene mutation
+ARID4A_mutation	DNA	Gene mutation
+PLK1_mutation	DNA	Gene mutation
+TAF15_mutation	DNA	Gene mutation
+CLTC_mutation	DNA	Gene mutation
+TAF4B_mutation	DNA	Gene mutation
+ERG_mutation	DNA	Gene mutation
+P2RY8_mutation	DNA	Gene mutation
+DUSP9_mutation	DNA	Gene mutation
+PDK1_mutation	DNA	Gene mutation
+FOXP1_mutation	DNA	Gene mutation
+SKP2_mutation	DNA	Gene mutation
+ITK_mutation	DNA	Gene mutation
+EIF3E_mutation	DNA	Gene mutation
+PRKAR1A_mutation	DNA	Gene mutation
+KLHL6_mutation	DNA	Gene mutation
+TERT_mutation	DNA	Gene mutation
+HOXA9_mutation	DNA	Gene mutation
+NAT1_mutation	DNA	Gene mutation
+SOHLH2_mutation	DNA	Gene mutation
+TRIP11_mutation	DNA	Gene mutation
+SMAD3_mutation	DNA	Gene mutation
+HLF_mutation	DNA	Gene mutation
+DDX5_mutation	DNA	Gene mutation
+XPO1_mutation	DNA	Gene mutation
+FBXO11_mutation	DNA	Gene mutation
+ARNT_mutation	DNA	Gene mutation
+ATR_mutation	DNA	Gene mutation
+LPP_mutation	DNA	Gene mutation
+ZNF521_mutation	DNA	Gene mutation
+RUNX1_mutation	DNA	Gene mutation
+PIK3CB_mutation	DNA	Gene mutation
+CNBP_mutation	DNA	Gene mutation
+STAG2_mutation	DNA	Gene mutation
+MSI2_mutation	DNA	Gene mutation
+ASXL1_mutation	DNA	Gene mutation
+ACSL6_mutation	DNA	Gene mutation
+ASPSCR1_mutation	DNA	Gene mutation
+DAXX_mutation	DNA	Gene mutation
+ZNF668_mutation	DNA	Gene mutation
+EXOSC6_mutation	DNA	Gene mutation
+RAB42_mutation	DNA	Gene mutation
+TFRC_mutation	DNA	Gene mutation
+PTCH1_mutation	DNA	Gene mutation
+HOXC11_mutation	DNA	Gene mutation
+CCT6B_mutation	DNA	Gene mutation
+EPOR_mutation	DNA	Gene mutation
+CRTC1_mutation	DNA	Gene mutation
+PHF6_mutation	DNA	Gene mutation
+MLLT3_mutation	DNA	Gene mutation
+FOXO4_mutation	DNA	Gene mutation
+MSH2_mutation	DNA	Gene mutation
+ERBB3_mutation	DNA	Gene mutation
+ARHGEF12_mutation	DNA	Gene mutation
+ZNF331_mutation	DNA	Gene mutation
+AXIN1_mutation	DNA	Gene mutation
+RHOA_mutation	DNA	Gene mutation
+PCBP1_mutation	DNA	Gene mutation
+SLCO1B1_mutation	DNA	Gene mutation
+BCR_mutation	DNA	Gene mutation
+MAP3K13_mutation	DNA	Gene mutation
+PRF1_mutation	DNA	Gene mutation
+NKX2-1_mutation	DNA	Gene mutation
+KEAP1_mutation	DNA	Gene mutation
+STRN_mutation	DNA	Gene mutation
+ERBB2_mutation	DNA	Gene mutation
+RPL22_mutation	DNA	Gene mutation
+NR1I2_mutation	DNA	Gene mutation
+COL1A1_mutation	DNA	Gene mutation
+LRIG2_mutation	DNA	Gene mutation
+REL_mutation	DNA	Gene mutation
+CSF1R_mutation	DNA	Gene mutation
+OMD_mutation	DNA	Gene mutation
+MUTYH_mutation	DNA	Gene mutation
+TPR_mutation	DNA	Gene mutation
+LIFR_mutation	DNA	Gene mutation
+RAP1GDS1_mutation	DNA	Gene mutation
+PIK3CD_mutation	DNA	Gene mutation
+FRMPD2_mutation	DNA	Gene mutation
+RMI2_mutation	DNA	Gene mutation
+CNOT3_mutation	DNA	Gene mutation
+HOXC13_mutation	DNA	Gene mutation
+INSR_mutation	DNA	Gene mutation
+SLC19A1_mutation	DNA	Gene mutation
+ANTXR1_mutation	DNA	Gene mutation
+NFE2L2_mutation	DNA	Gene mutation
+IGF2_mutation	DNA	Gene mutation
+TP53_R249S_mutation	DNA	TP53 mutation
+TP53_G154Afs*16_mutation	DNA	TP53 mutation
+TP53_M237I_mutation	DNA	TP53 mutation
+TP53_I254N_mutation	DNA	TP53 mutation
+TP53_G266E_mutation	DNA	TP53 mutation
+TP53_X261_splice_mutation	DNA	TP53 mutation
+TP53_C176F_mutation	DNA	TP53 mutation
+TP53_R273G_mutation	DNA	TP53 mutation
+TP53_T125Rfs*45_mutation	DNA	TP53 mutation
+TP53_R342Pfs*5_mutation	DNA	TP53 mutation
+TP53_R175H_mutation	DNA	TP53 mutation
+TP53_Y220C_mutation	DNA	TP53 mutation
+TP53_C238Y_mutation	DNA	TP53 mutation
+TP53_S241Y_mutation	DNA	TP53 mutation
+TP53_R196P_mutation	DNA	TP53 mutation
+TP53_I255T_mutation	DNA	TP53 mutation
+TP53_L130V_mutation	DNA	TP53 mutation
+TP53_T284P_mutation	DNA	TP53 mutation
+TP53_T312Qfs*24_mutation	DNA	TP53 mutation
+TP53_P151R_mutation	DNA	TP53 mutation
+TP53_L111Ffs*40_mutation	DNA	TP53 mutation
+TP53_V173M_mutation	DNA	TP53 mutation
+TP53_R213*_mutation	DNA	TP53 mutation
+TP53_C124*_mutation	DNA	TP53 mutation
+TP53_R306*_mutation	DNA	TP53 mutation
+TP53_F212Sfs*3_mutation	DNA	TP53 mutation
+TP53_H115Afs*34_mutation	DNA	TP53 mutation
+TP53_G117Afs*34_mutation	DNA	TP53 mutation
+TP53_R213Dfs*34_mutation	DNA	TP53 mutation
+TP53_X125_splice_mutation	DNA	TP53 mutation
+TP53_R158P_mutation	DNA	TP53 mutation
+TP53_C277Vfs*68_mutation	DNA	TP53 mutation
+TP53_V122Dfs*26_mutation	DNA	TP53 mutation
+TP53_K132N_mutation	DNA	TP53 mutation
+TP53_C275G_mutation	DNA	TP53 mutation
+TP53_C135Y_mutation	DNA	TP53 mutation
+TP53_R280G_mutation	DNA	TP53 mutation
+TP53_V216M_mutation	DNA	TP53 mutation
+TP53_Q144*_mutation	DNA	TP53 mutation
+TP53_L201Ffs*8_mutation	DNA	TP53 mutation
+TP53_V274A_mutation	DNA	TP53 mutation
+TP53_L265P_mutation	DNA	TP53 mutation
+TP53_S241F_mutation	DNA	TP53 mutation
+TP53_N239*_mutation	DNA	TP53 mutation
+TP53_V173G_mutation	DNA	TP53 mutation
+TP53_Y163H_mutation	DNA	TP53 mutation
+TP53_R110Pfs*14_mutation	DNA	TP53 mutation
+TP53_R248W_mutation	DNA	TP53 mutation
+TP53_V157D_mutation	DNA	TP53 mutation
+TP53_E221*_mutation	DNA	TP53 mutation
+TP53_G245D_mutation	DNA	TP53 mutation
+TP53_I195Tfs*52_mutation	DNA	TP53 mutation
+TP53_F109_R110dup_mutation	DNA	TP53 mutation
+TP53_Q165*_mutation	DNA	TP53 mutation
+TP53_E294*_mutation	DNA	TP53 mutation
+TP53_P151S_mutation	DNA	TP53 mutation
+TP53_R273C_mutation	DNA	TP53 mutation
+TP53_X331_splice_mutation	DNA	TP53 mutation
+TP53_G154Rfs*22_mutation	DNA	TP53 mutation
+TP53_D281E_mutation	DNA	TP53 mutation
+TP53_Y107*_mutation	DNA	TP53 mutation
+TP53_A189_V197del_mutation	DNA	TP53 mutation
+TP53_X187_splice_mutation	DNA	TP53 mutation
+TP53_R273H_mutation	DNA	TP53 mutation
+TP53_Q100Rfs*23_mutation	DNA	TP53 mutation
+TP53_H178Tfs*69_mutation	DNA	TP53 mutation
+TP53_I50Mfs*73_mutation	DNA	TP53 mutation
+TP53_L257Q_mutation	DNA	TP53 mutation
+TP53_X307_splice_mutation	DNA	TP53 mutation
+TP53_R110P_mutation	DNA	TP53 mutation
+TP53_N268_V272delinsK_mutation	DNA	TP53 mutation
+TP53_R342Efs*3_mutation	DNA	TP53 mutation
+TP53_C242Afs*5_mutation	DNA	TP53 mutation
+TP53_R209Kfs*6_mutation	DNA	TP53 mutation
+TP53_P278T_mutation	DNA	TP53 mutation
+TP53_G112Afs*11_mutation	DNA	TP53 mutation
+TP53_R273L_mutation	DNA	TP53 mutation
+TP53_C277Wfs*67_mutation	DNA	TP53 mutation
+TP53_E294Gfs*12_mutation	DNA	TP53 mutation
+TP53_X332_splice_mutation	DNA	TP53 mutation
+TP53_X33_splice_mutation	DNA	TP53 mutation
+TP53_I195T_mutation	DNA	TP53 mutation
+TP53_E343Gfs*2_mutation	DNA	TP53 mutation
+TP53_C238S_mutation	DNA	TP53 mutation
+TP53_R342*_mutation	DNA	TP53 mutation
+TP53_L252P_mutation	DNA	TP53 mutation
+TP53_T231Hfs*8_mutation	DNA	TP53 mutation
+TP53_E258A_mutation	DNA	TP53 mutation
+TP53_P190_L194del_mutation	DNA	TP53 mutation
+TP53_C238G_mutation	DNA	TP53 mutation
+TP53_R196*_mutation	DNA	TP53 mutation
+TP53_L257P_mutation	DNA	TP53 mutation
+TP53_K101Rfs*37_mutation	DNA	TP53 mutation
+TP53_C275R_mutation	DNA	TP53 mutation
+TP53_R282W_mutation	DNA	TP53 mutation
+TP53_I195Sfs*52_mutation	DNA	TP53 mutation
+TP53_T81Rfs*40_mutation	DNA	TP53 mutation
+TP53_Y103Cfs*30_mutation	DNA	TP53 mutation
+TP53_L194R_mutation	DNA	TP53 mutation
+TP53_Y126*_mutation	DNA	TP53 mutation
+TP53_D184Rfs*2_mutation	DNA	TP53 mutation
+TP53_E258Wfs*88_mutation	DNA	TP53 mutation
+TP53_R248Q_mutation	DNA	TP53 mutation
+TP53_M133K_mutation	DNA	TP53 mutation
+TP53_N345Mfs*25_mutation	DNA	TP53 mutation
+TP53_E271*_mutation	DNA	TP53 mutation
+TP53_K132Q_mutation	DNA	TP53 mutation
+TP53_C135G_mutation	DNA	TP53 mutation
+TP53_R213L_mutation	DNA	TP53 mutation
+TP53_L257Gfs*6_mutation	DNA	TP53 mutation
+TP53_Y220*_mutation	DNA	TP53 mutation
+TP53_C124Afs*46_mutation	DNA	TP53 mutation
+TP53_E326Hfs*8_mutation	DNA	TP53 mutation
+TP53_V157F_mutation	DNA	TP53 mutation
+TP53_L114Ffs*8_mutation	DNA	TP53 mutation
+TP53_Q317Sfs*28_mutation	DNA	TP53 mutation
+TP53_T170_V173del_mutation	DNA	TP53 mutation
+TP53_I195Nfs*14_mutation	DNA	TP53 mutation
+TP53_H179R_mutation	DNA	TP53 mutation
+TP53_C238F_mutation	DNA	TP53 mutation
+TP53_E171*_mutation	DNA	TP53 mutation
+TP53_M40Afs*7_mutation	DNA	TP53 mutation
+TP53_F328Sfs*17_mutation	DNA	TP53 mutation
+TP53_R110Pfs*38_mutation	DNA	TP53 mutation
+TP53_E294Gfs*51_mutation	DNA	TP53 mutation
+TP53_C238Efs*15_mutation	DNA	TP53 mutation
+TP53_K164E_mutation	DNA	TP53 mutation
+TP53_V272M_mutation	DNA	TP53 mutation
+TP53_Y107del_mutation	DNA	TP53 mutation
+TP53_E343Dfs*7_mutation	DNA	TP53 mutation
+TP53_G105V_mutation	DNA	TP53 mutation
+TP53_P316Sfs*28_mutation	DNA	TP53 mutation
+TP53_E258K_mutation	DNA	TP53 mutation
+TP53_E286K_mutation	DNA	TP53 mutation
+gain_1.p.wholearm.chr1:1-124300000	DNA	Copy number gain
+gain_chr1:3756302-6867390.BeroukhimS2.1p36.31.del	DNA	Copy number gain
+gain_chr1:26377344-27532551.BeroukhimS2.1p36.11.del	DNA	Copy number gain
+gain_chr1:27351829-27460967.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:39907605-40263248.BeroukhimS2.1p34.2.amp.MYCL1	DNA	Copy number gain
+gain_chr1:41717036-43943775.Basal.1p34.2-1.amp	DNA	Copy number gain
+gain_chr1:43945805-44960161.Basal.1p34.1-2.amp	DNA	Copy number gain
+gain_chr1:46541957-46555032.Basal.1p33-3.amp	DNA	Copy number gain
+gain_chr1:58658784-60221344.BeroukhimS2.1p32.1.amp.JUN	DNA	Copy number gain
+gain_chr1:71284749-74440273.BeroukhimS2.1p31.1.del.NEGR1	DNA	Copy number gain
+gain_chr1:110339388-119426489.BeroukhimS2.1p13.2.del	DNA	Copy number gain
+gain_chr1:114889793-115149999.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:118282114-118807006.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:119996566-120303234.BeroukhimS2.1p12.amp	DNA	Copy number gain
+gain_1.q.wholearm.chr1:124300000-247249719	DNA	Copy number gain
+gain_chr1:144078052-144943150.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:148661965-149063439.BeroukhimS2.1q21.2.amp.MCL1	DNA	Copy number gain
+gain_chr1:151026302-152973244.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:158317017-159953843.BeroukhimS2.1q23.3.amp	DNA	Copy number gain
+gain_chr1:162199047-163197517.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:163619952-164752515.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:166729757-167532460.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:168438419-168880930.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:169549478-170484405.BeroukhimS2.1q24.3.amp	DNA	Copy number gain
+gain_chr1:174611641-175371076.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr1:201678483-203358272.BeroukhimS2.1q32.1.amp.MDM4	DNA	Copy number gain
+gain_chr1:223876038-247249719.BeroukhimS2.1q43.del.RYR2	DNA	Copy number gain
+gain_chr1:241364021-247249719.BeroukhimS2.1q44.amp	DNA	Copy number gain
+gain_chr2:1-15244284.BeroukhimS2.2p25.3.del	DNA	Copy number gain
+gain_2.p.wholearm.chr2:1-93300000	DNA	Copy number gain
+gain_chr2:15977811-16073001.BeroukhimS2.2p24.3.amp.MYCN	DNA	Copy number gain
+gain_chr2:32460827-55039898.BeroukhimS5.del	DNA	Copy number gain
+gain_chr2:53680282-53845245.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr2:61834240-63151654.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr2:79257340-80427237.BeroukhimS5.del	DNA	Copy number gain
+gain_2.q.wholearm.chr2:93300000-242951149	DNA	Copy number gain
+gain_chr2:121187279-122198612.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr2:135029078-135167772.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr2:138479322-143365272.BeroukhimS2.2q22.1.del.LRP1B	DNA	Copy number gain
+gain_chr2:154436672-155018734.HER2-enriched.2q23.3-114.amp	DNA	Copy number gain
+gain_chr2:156889194-159797412.HER2-enriched.2q24.1-115.amp	DNA	Copy number gain
+gain_chr2:159800558-163403274.HER2-enriched.2q24.2-116.amp	DNA	Copy number gain
+gain_chr2:164158152-168812365.HER2-enriched.2q24.3-117.amp	DNA	Copy number gain
+gain_chr2:173927807-175001974.HER2-enriched.2q31.1-118.amp	DNA	Copy number gain
+gain_chr2:204533830-206266883.BeroukhimS2.2q33.2.del.PARD3B	DNA	Copy number gain
+gain_chr2:241477619-242951149.BeroukhimS2.2q37.3.del	DNA	Copy number gain
+gain_chr3:1-2121282.BeroukhimS2.3p26.3.del	DNA	Copy number gain
+gain_3.p.wholearm.chr3:1-91700000	DNA	Copy number gain
+gain_chr3:41866-18694914.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr3:36286137-40063081.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr3:43362938-44130419.BeroukhimS5.del	DNA	Copy number gain
+gain_chr3:58626894-61524607.BeroukhimS2.3p14.2.del.FHIT	DNA	Copy number gain
+gain_chr3:66644057-68118027.BeroukhimS5.del	DNA	Copy number gain
+gain_chr3:70107050-74383584.BeroukhimS5.del	DNA	Copy number gain
+gain_chr3:86250885-95164178.BeroukhimS2.3p11.1.amp	DNA	Copy number gain
+gain_3.q.wholearm.chr3:91700000-199501827	DNA	Copy number gain
+gain_chr3:116900556-120107320.BeroukhimS2.3q13.31.del	DNA	Copy number gain
+gain_chr3:170024984-173604597.BeroukhimS2.3q26.2.amp.PRKCI	DNA	Copy number gain
+gain_chr3:175446835-178263192.BeroukhimS2.3q26.31.del.NAALADL2	DNA	Copy number gain
+gain_chr3:178149984-199501827.BeroukhimS2.3q28.amp.PIK3CA	DNA	Copy number gain
+gain_chr4:1-435793.BeroukhimS2.4p16.3.del	DNA	Copy number gain
+gain_4.p.wholearm.chr4:1-50700000	DNA	Copy number gain
+gain_chr4:1234177-1683843.Basal.4p16.3-4.del	DNA	Copy number gain
+gain_chr4:3220565-5553626.Basal.4p16.2-5.del	DNA	Copy number gain
+gain_chr4:4349500-4427489.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr4:5577784-10295484.Basal.4p16.1-6.del	DNA	Copy number gain
+gain_chr4:10979549-15266111.Basal.4p15.33-7.del	DNA	Copy number gain
+gain_chr4:13238819-37565122.BeroukhimS5.del	DNA	Copy number gain
+gain_chr4:15313739-17632477.Basal.4p15.32-8.del	DNA	Copy number gain
+gain_chr4:19864333-22430289.Basal.4p15.31-9.del	DNA	Copy number gain
+gain_chr4:23402742-26636101.Basal.4p15.2-10.del	DNA	Copy number gain
+gain_chr4:30331135-30753569.Basal.4p15.1-11.del	DNA	Copy number gain
+gain_chr4:37121738-38804810.Basal.4p14-12.del	DNA	Copy number gain
+gain_chr4:41057559-42353879.Basal.4p13-13.del	DNA	Copy number gain
+gain_4.q.wholearm.chr4:50700000-191273063	DNA	Copy number gain
+gain_chr4:54471680-55980061.BeroukhimS2.4q12.amp.PDGFRA.KIT	DNA	Copy number gain
+gain_chr4:71492582-75938920.Basal.4q13.3-15.del	DNA	Copy number gain
+gain_chr4:73526461-75252649.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr4:76623381-79684447.Basal.4q21.1-16.del	DNA	Copy number gain
+gain_chr4:79691766-80079606.Basal.4q21.21-17.del	DNA	Copy number gain
+gain_chr4:83634873-83961360.BeroukhimS5.del	DNA	Copy number gain
+gain_chr4:91089383-93486891.BeroukhimS2.4q22.1.del	DNA	Copy number gain
+gain_chr4:104889590-106814504.BeroukhimS5.del	DNA	Copy number gain
+gain_chr4:112023722-118112513.BeroukhimS5.del	DNA	Copy number gain
+gain_chr4:114219937-114355024.Basal.4q26-18.del	DNA	Copy number gain
+gain_chr4:143168636-143603331.Basal.4q31.21-19.del	DNA	Copy number gain
+gain_chr4:147085600-153449318.BeroukhimS5.del	DNA	Copy number gain
+gain_chr4:151218876-154929678.Basal.4q31.3-20.del	DNA	Copy number gain
+gain_chr4:155375138-160500747.Basal.4q32.1-21.del	DNA	Copy number gain
+gain_chr4:162524501-164492534.Basal.4q32.2-22.del	DNA	Copy number gain
+gain_chr4:164612456-170167997.Basal.4q32.3-23.del	DNA	Copy number gain
+gain_chr4:170251982-170915637.Basal.4q33-24.del	DNA	Copy number gain
+gain_chr4:174326479-176135905.Basal.4q34.1-25.del	DNA	Copy number gain
+gain_chr4:175486008-184028292.BeroukhimS5.del	DNA	Copy number gain
+gain_chr4:176791083-177486490.Basal.4q34.2-26.del	DNA	Copy number gain
+gain_chr4:186684565-191273063.BeroukhimS2.4q35.2.del	DNA	Copy number gain
+gain_5.p.wholearm.chr5:1-47700000	DNA	Copy number gain
+gain_chr5:1212750-1378766.BeroukhimS2.5p15.33.amp.TERT	DNA	Copy number gain
+gain_chr5:1473801-6790134.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr5:9224578-10673735.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr5:18240864-21565169.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr5:36750649-37111693.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr5:39149695-41885012.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr5:43612947-44998256.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr5:45312870-49697231.BeroukhimS2.5p11.amp	DNA	Copy number gain
+gain_5.q.wholearm.chr5:47700000-180857866	DNA	Copy number gain
+gain_chr5:49730236-50173926.Basal.5q11.1-27.del	DNA	Copy number gain
+gain_chr5:52119531-58183162.Basal.5q11.2-28.del	DNA	Copy number gain
+gain_chr5:56146657-56594666.LumB.5q11.2-132.amp	DNA	Copy number gain
+gain_chr5:57754754-59053198.BeroukhimS2.5q11.2.del.PDE4D	DNA	Copy number gain
+gain_chr5:58300629-59320301.LumB.5q12.1-133.amp	DNA	Copy number gain
+gain_chr5:58300629-62108926.Basal.5q12.1-29.del	DNA	Copy number gain
+gain_chr5:63292034-63701397.Basal.5q12.2-30.del	DNA	Copy number gain
+gain_chr5:63838208-66501179.Basal.5q12.3-31.del	DNA	Copy number gain
+gain_chr5:66513872-67633403.Basal.5q13.1-32.del	DNA	Copy number gain
+gain_chr5:68425638-71536822.LumB.5q13.2-134.amp	DNA	Copy number gain
+gain_chr5:68425638-72913540.Basal.5q13.2-33.del	DNA	Copy number gain
+gain_chr5:73958991-76396789.Basal.5q13.3-34.del	DNA	Copy number gain
+gain_chr5:76408288-81082828.Basal.5q14.1-35.del	DNA	Copy number gain
+gain_chr5:81303630-82685333.Basal.5q14.2-36.del	DNA	Copy number gain
+gain_chr5:82803339-90714877.Basal.5q14.3-37.del	DNA	Copy number gain
+gain_chr5:85837489-133480433.BeroukhimS2.5q21.1.del.APC	DNA	Copy number gain
+gain_chr5:92250850-96544700.Basal.5q15-38.del	DNA	Copy number gain
+gain_chr5:98132900-102642260.Basal.5q21.1-39.del	DNA	Copy number gain
+gain_chr5:101597589-102642260.LumB.5q21.1-135.amp	DNA	Copy number gain
+gain_chr5:102912456-102926389.Basal.5q21.2-40.del	DNA	Copy number gain
+gain_chr5:102912456-102926389.LumB.5q21.2-136.amp	DNA	Copy number gain
+gain_chr5:106744250-109231328.Basal.5q21.3-41.del	DNA	Copy number gain
+gain_chr5:109877429-111137815.Basal.5q22.1-42.del	DNA	Copy number gain
+gain_chr5:111507433-112958878.Basal.5q22.2-43.del	DNA	Copy number gain
+gain_chr5:113725565-115180304.Basal.5q22.3-44.del	DNA	Copy number gain
+gain_chr5:115193714-121517156.Basal.5q23.1-45.del	DNA	Copy number gain
+gain_chr5:121675719-127022221.Basal.5q23.2-46.del	DNA	Copy number gain
+gain_chr5:125787000-126200608.LumB.5q23.2-137.amp	DNA	Copy number gain
+gain_chr5:127447382-129549383.Basal.5q23.3-47.del	DNA	Copy number gain
+gain_chr5:128458341-128477620.LumB.5q23.3-138.amp	DNA	Copy number gain
+gain_chr5:130522776-135427403.Basal.5q31.1-48.del	DNA	Copy number gain
+gain_chr5:135493104-138988200.Basal.5q31.2-49.del	DNA	Copy number gain
+gain_chr5:139008130-142795270.Basal.5q31.3-50.del	DNA	Copy number gain
+gain_chr5:143171919-147191453.Basal.5q32-51.del	DNA	Copy number gain
+gain_chr5:147238467-151765017.Basal.5q33.1-52.del	DNA	Copy number gain
+gain_chr5:152850499-154326721.Basal.5q33.2-53.del	DNA	Copy number gain
+gain_chr5:155686345-159845035.Basal.5q33.3-54.del	DNA	Copy number gain
+gain_chr5:159922707-167623739.Basal.5q34-55.del	DNA	Copy number gain
+gain_chr5:167651670-171366482.Basal.5q35.1-56.del	DNA	Copy number gain
+gain_chr5:172591744-174888201.Basal.5q35.2-57.del	DNA	Copy number gain
+gain_chr5:174477192-180857866.BeroukhimS2.5q35.3.amp	DNA	Copy number gain
+gain_chr5:176660805-180009206.Basal.5q35.3-58.del	DNA	Copy number gain
+gain_chr5:177541057-180857866.BeroukhimS2.5q35.3.del	DNA	Copy number gain
+gain_chr6:1-23628840.BeroukhimS2.6p24.1.amp	DNA	Copy number gain
+gain_6.p.wholearm.chr6:1-60500000	DNA	Copy number gain
+gain_chr6:110391-1254918.BeroukhimS5.del	DNA	Copy number gain
+gain_chr6:1543157-2570302.BeroukhimS2.6p25.3.del	DNA	Copy number gain
+gain_chr6:4058046-25852810.BeroukhimS5.del	DNA	Copy number gain
+gain_chr6:13729714-14088212.Basal.6p23-59.amp	DNA	Copy number gain
+gain_chr6:30420923-31893702.LumB.6p21.33-139.del	DNA	Copy number gain
+gain_chr6:31910383-31915520.LumB.6p21.32-140.del	DNA	Copy number gain
+gain_chr6:38787570-41935171.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr6:42772314-43039595.Basal.6p21.1-60.amp	DNA	Copy number gain
+gain_chr6:43556800-44361368.BeroukhimS2.6p21.1.amp	DNA	Copy number gain
+gain_chr6:54352087-55392731.BeroukhimS5.amp	DNA	Copy number gain
+gain_6.q.wholearm.chr6:60500000-170899992	DNA	Copy number gain
+gain_chr6:63255006-65243766.BeroukhimS2.6q12.amp	DNA	Copy number gain
+gain_chr6:76630464-105342994.BeroukhimS2.6q16.1.del	DNA	Copy number gain
+gain_chr6:101000242-121511318.BeroukhimS2.6q22.1.del	DNA	Copy number gain
+gain_chr6:106604408-107782614.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr6:116369389-117096650.LumB.6q22.1-141.del	DNA	Copy number gain
+gain_chr6:117109043-117359993.LumB.6q22.2-142.del	DNA	Copy number gain
+gain_chr6:119295855-120272161.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr6:129217882-131730157.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr6:135561194-135665525.BeroukhimS2.6q23.3.amp.MYB	DNA	Copy number gain
+gain_chr6:137619861-138589104.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr6:139381116-139689363.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr6:143157329-144194971.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr6:149442557-149779188.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr6:157695838-157823719.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr6:161612277-163134099.BeroukhimS2.6q26.del.PARK2	DNA	Copy number gain
+gain_7.p.wholearm.chr7:1-59100000	DNA	Copy number gain
+gain_chr7:3046420-4279470.BeroukhimS2.7p22.2.del.SDK1	DNA	Copy number gain
+gain_chr7:3516940-6019790.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr7:16017926-18944036.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr7:54899301-55275419.BeroukhimS2.7p11.2.amp.EGFR	DNA	Copy number gain
+gain_7.q.wholearm.chr7:59100000-158821424	DNA	Copy number gain
+gain_chr7:65877239-79629882.BeroukhimS2.7q21.11.del.MAGI2	DNA	Copy number gain
+gain_chr7:83246850-83689170.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr7:86091574-88424037.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr7:87797038-89779004.BeroukhimS5.del	DNA	Copy number gain
+gain_chr7:89924533-98997268.BeroukhimS2.7q21.3.amp.CDK6	DNA	Copy number gain
+gain_chr7:92829306-132566935.BeroukhimS5.del	DNA	Copy number gain
+gain_chr7:102988499-103837783.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr7:115981465-116676953.BeroukhimS2.7q31.2.amp.MET	DNA	Copy number gain
+gain_chr7:129281946-131188950.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr7:137042370-158819393.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr7:141592807-142264966.BeroukhimS2.7q34.del.TRB	DNA	Copy number gain
+gain_chr7:144118814-148066271.BeroukhimS2.7q35.del.CNTNAP2	DNA	Copy number gain
+gain_chr7:156893473-158821424.BeroukhimS2.7q36.3.del.PTPRN2	DNA	Copy number gain
+gain_chr8:1-392555.BeroukhimS2.8p23.3.del	DNA	Copy number gain
+gain_8.p.wholearm.chr8:1-45200000	DNA	Copy number gain
+gain_chr8:2053441-6259545.BeroukhimS2.8p23.2.del.CSMD1	DNA	Copy number gain
+gain_chr8:11575198-11708771.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:22125332-30139123.BeroukhimS2.8p21.2.del	DNA	Copy number gain
+gain_chr8:29285985-30473918.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:38252951-38460772.BeroukhimS2.8p12.amp.FGFR1	DNA	Copy number gain
+gain_chr8:39008109-41238710.BeroukhimS2.8p11.22.del	DNA	Copy number gain
+gain_chr8:41004735-41425303.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:42006632-42404492.BeroukhimS2.8p11.21.amp	DNA	Copy number gain
+gain_chr8:42971602-72924037.BeroukhimS2.8q11.22.del.SNTG1	DNA	Copy number gain
+gain_8.q.wholearm.chr8:45200000-146274826	DNA	Copy number gain
+gain_chr8:62174237-62716885.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:81242335-81979194.BeroukhimS2.8q21.13.amp	DNA	Copy number gain
+gain_chr8:82099049-82634968.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:84799647-85622331.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:94587173-100685605.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:101163387-103693879.BeroukhimS2.8q22.3.amp	DNA	Copy number gain
+gain_chr8:108043446-108683856.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:116186189-120600761.BeroukhimS2.8q24.11.amp	DNA	Copy number gain
+gain_chr8:128414451-128718816.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:128774432-128849112.BeroukhimS2.8q24.21.amp.MYC	DNA	Copy number gain
+gain_chr8:128823745-146264218.BeroukhimS5.del	DNA	Copy number gain
+gain_chr8:133698327-133914560.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr8:140458177-146274826.BeroukhimS2.8q24.3.amp	DNA	Copy number gain
+gain_chr9:1-708871.BeroukhimS2.9p24.3.del	DNA	Copy number gain
+gain_9.p.wholearm.chr9:1-51800000	DNA	Copy number gain
+gain_chr9:235706-8362053.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr9:831690-1047552.Basal.9p24.3-61.amp	DNA	Copy number gain
+gain_chr9:7161607-12713130.BeroukhimS2.9p24.1.del.PTPRD	DNA	Copy number gain
+gain_chr9:12683435-13935586.Basal.9p23-62.amp	DNA	Copy number gain
+gain_chr9:14071847-14900353.Basal.9p22.3-63.amp	DNA	Copy number gain
+gain_chr9:21489625-22474701.BeroukhimS2.9p21.3.del.CDKN2A.B	DNA	Copy number gain
+gain_chr9:23819824-26891068.BeroukhimS5.del	DNA	Copy number gain
+gain_chr9:26573226-29470065.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr9:34233377-35934224.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr9:36365710-37139941.BeroukhimS2.9p13.2.del.PAX5	DNA	Copy number gain
+gain_chr9:36988416-36998984.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr9:37861914-38370450.BeroukhimS5.del	DNA	Copy number gain
+gain_9.q.wholearm.chr9:51800000-140273252	DNA	Copy number gain
+gain_chr9:71280626-72167093.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr9:97183463-97625342.BeroukhimS5.del	DNA	Copy number gain
+gain_chr9:110661885-116923292.BeroukhimS5.del	DNA	Copy number gain
+gain_chr9:110838572-127593510.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr9:122980237-124410900.Basal.9q33.2-64.del	DNA	Copy number gain
+gain_chr9:130999928-132303780.BeroukhimS5.del	DNA	Copy number gain
+gain_chr9:137859478-140273252.BeroukhimS2.9q34.3.amp	DNA	Copy number gain
+gain_chr10:1-1042949.BeroukhimS2.1p15.3.del	DNA	Copy number gain
+gain_10.p.wholearm.chr10:1-40300000	DNA	Copy number gain
+gain_chr10:101955-12088176.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr10:170643-1769670.Basal.10p15.3-65.amp	DNA	Copy number gain
+gain_chr10:3099740-3205003.Basal.10p15.2-66.amp	DNA	Copy number gain
+gain_chr10:3811260-5139878.LumB.10p15.1-143.del	DNA	Copy number gain
+gain_chr10:3811260-6662244.Basal.10p15.1-67.amp	DNA	Copy number gain
+gain_chr10:7244255-12332593.Basal.10p14-68.amp	DNA	Copy number gain
+gain_chr10:12431738-17283687.Basal.10p13-69.amp	DNA	Copy number gain
+gain_chr10:17311250-19896508.Basal.10p12.33-70.amp	DNA	Copy number gain
+gain_chr10:19022250-42889659.BeroukhimS5.del	DNA	Copy number gain
+gain_chr10:20145174-20609292.Basal.10p12.32-71.amp	DNA	Copy number gain
+gain_chr10:21110098-22746531.Basal.10p12.31-72.amp	DNA	Copy number gain
+gain_chr10:22863772-24876778.Basal.10p12.2-73.amp	DNA	Copy number gain
+gain_chr10:24604620-28074753.Basal.10p12.1-74.amp	DNA	Copy number gain
+gain_chr10:28141103-31360860.Basal.10p11.23-75.amp	DNA	Copy number gain
+gain_chr10:31648148-32903498.Basal.10p11.22-76.amp	DNA	Copy number gain
+gain_chr10:35175415-37212810.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr10:38685321-38707438.LumB.10p11.21-144.del	DNA	Copy number gain
+gain_10.q.wholearm.chr10:40300000-135374737	DNA	Copy number gain
+gain_chr10:52313829-53768264.BeroukhimS2.1q11.23.del.PRKG1	DNA	Copy number gain
+gain_chr10:54201467-57779853.BeroukhimS5.del	DNA	Copy number gain
+gain_chr10:61909390-66364553.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr10:73394126-73443318.LumB.10q22.1-145.del	DNA	Copy number gain
+gain_chr10:74560456-82020637.BeroukhimS2.1q22.3.amp	DNA	Copy number gain
+gain_chr10:75957348-77987139.LumB.10q22.2-146.del	DNA	Copy number gain
+gain_chr10:89467202-90419015.BeroukhimS2.1q23.31.del.PTEN	DNA	Copy number gain
+gain_chr10:118946990-119027085.LumB.10q25.3-147.del	DNA	Copy number gain
+gain_chr10:119032598-121691235.LumB.10q26.11-148.del	DNA	Copy number gain
+gain_chr10:122206456-122883255.LumB.10q26.12-149.del	DNA	Copy number gain
+gain_chr10:123214869-123367187.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr10:123223889-124739898.LumB.10q26.13-150.del	DNA	Copy number gain
+gain_chr10:128584013-129240925.LumB.10q26.2-151.del	DNA	Copy number gain
+gain_chr10:129812260-135374737.BeroukhimS2.1q26.3.del	DNA	Copy number gain
+gain_chr11:1-1391954.BeroukhimS2.11p15.5.del	DNA	Copy number gain
+gain_11.p.wholearm.chr11:1-52900000	DNA	Copy number gain
+gain_chr11:26341787-27574592.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr11:32027116-37799354.BeroukhimS2.11p13.amp	DNA	Copy number gain
+gain_chr11:42387077-47453403.BeroukhimS5.amp	DNA	Copy number gain
+gain_11.q.wholearm.chr11:52900000-134452384	DNA	Copy number gain
+gain_chr11:55503467-56066044.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr11:57344931-58658339.BeroukhimS5.del	DNA	Copy number gain
+gain_chr11:57861150-58074632.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr11:68230745-68388280.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr11:69098089-69278404.BeroukhimS2.11q13.2.amp.CCND1	DNA	Copy number gain
+gain_chr11:69588488-69842871.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr11:73357303-74035012.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr11:74085123-74337880.LumB.11q13.4-153.del	DNA	Copy number gain
+gain_chr11:74091491-74180816.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr11:76699529-78005085.BeroukhimS2.11q14.1.amp	DNA	Copy number gain
+gain_chr11:76710709-85146692.LumB.11q14.1-154.del	DNA	Copy number gain
+gain_chr11:82612034-85091467.BeroukhimS2.11q14.1.del.DLG2	DNA	Copy number gain
+gain_chr11:85633463-87710586.LumB.11q14.2-155.del	DNA	Copy number gain
+gain_chr11:87881006-92269284.LumB.11q14.3-156.del	DNA	Copy number gain
+gain_chr11:92342437-95765250.LumB.11q21-157.del	DNA	Copy number gain
+gain_chr11:101433436-102134907.BeroukhimS2.11q22.2.amp.BIRC2.YAP1	DNA	Copy number gain
+gain_chr11:104262627-109547776.LumB.11q22.3-158.del	DNA	Copy number gain
+gain_chr11:107086196-116175885.BeroukhimS2.11q23.1.del.ATM	DNA	Copy number gain
+gain_chr11:110631916-112776199.LumB.11q23.1-159.del	DNA	Copy number gain
+gain_chr11:112785528-114880322.LumB.11q23.2-160.del	DNA	Copy number gain
+gain_chr11:116803699-119605859.LumB.11q23.3-161.del	DNA	Copy number gain
+gain_chr11:130280899-134452384.BeroukhimS2.11q25.del.OPCML.HNT	DNA	Copy number gain
+gain_chr12:1-1311104.BeroukhimS2.12p13.33.amp	DNA	Copy number gain
+gain_12.p.wholearm.chr12:1-35400000	DNA	Copy number gain
+gain_chr12:8398512-8740196.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr12:10732932-10778896.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr12:11410696-12118386.BeroukhimS2.12p13.2.del.ETV6	DNA	Copy number gain
+gain_chr12:18393150-19784941.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr12:20728852-21227330.BeroukhimS5.del	DNA	Copy number gain
+gain_chr12:25189655-25352305.BeroukhimS2.12p12.1.amp.KRAS	DNA	Copy number gain
+gain_chr12:27342867-29425476.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr12:29425476-31105002.BeroukhimS5.del	DNA	Copy number gain
+gain_chr12:30999223-32594050.BeroukhimS2.12p11.21.amp	DNA	Copy number gain
+gain_chr12:33156845-33480710.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr12:34188071-44391168.BeroukhimS5.del	DNA	Copy number gain
+gain_12.q.wholearm.chr12:35400000-132349534	DNA	Copy number gain
+gain_chr12:38788913-42596599.BeroukhimS2.12q12.amp	DNA	Copy number gain
+gain_chr12:42034279-44588086.Basal.12q12-77.del	DNA	Copy number gain
+gain_chr12:44599181-47397048.Basal.12q13.11-78.del	DNA	Copy number gain
+gain_chr12:47446248-48387464.Basal.12q13.12-79.del	DNA	Copy number gain
+gain_chr12:48421630-53099317.Basal.12q13.13-80.del	DNA	Copy number gain
+gain_chr12:50987234-51048711.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr12:53136012-55168448.Basal.12q13.2-81.del	DNA	Copy number gain
+gain_chr12:55201993-55269875.Basal.12q13.3-82.del	DNA	Copy number gain
+gain_chr12:56419524-56488685.BeroukhimS2.12q14.1.amp.CDK4	DNA	Copy number gain
+gain_chr12:56621627-57600529.Basal.12q14.1-83.del	DNA	Copy number gain
+gain_chr12:63329154-63614508.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr12:64149851-66323376.BeroukhimS5.del	DNA	Copy number gain
+gain_chr12:64461446-64607139.BeroukhimS2.12q14.3.amp.HMGA2	DNA	Copy number gain
+gain_chr12:67440273-67566002.BeroukhimS2.12q15.amp.MDM2	DNA	Copy number gain
+gain_chr12:68249634-68327233.BeroukhimS2.12q15.amp	DNA	Copy number gain
+gain_chr12:70849987-70966467.BeroukhimS2.12q21.1.amp	DNA	Copy number gain
+gain_chr12:76852527-77064746.BeroukhimS2.12q21.2.amp	DNA	Copy number gain
+gain_chr12:85072329-85674601.BeroukhimS2.12q21.32.amp	DNA	Copy number gain
+gain_chr12:94480961-96479233.BeroukhimS5.del	DNA	Copy number gain
+gain_chr12:95089777-95350380.BeroukhimS2.12q23.1.amp	DNA	Copy number gain
+gain_chr12:97551177-99047626.BeroukhimS2.12q23.1.del.ANKS1B	DNA	Copy number gain
+gain_chr12:131913408-132349534.BeroukhimS2.12q24.33.del	DNA	Copy number gain
+gain_chr13:1-23902184.BeroukhimS2.13q12.11.del	DNA	Copy number gain
+gain_chr13:1-40829685.BeroukhimS2.13q12.2.amp	DNA	Copy number gain
+gain_13.q.wholearm.chr13:16000000-114142980	DNA	Copy number gain
+gain_chr13:27611014-27767472.LumB.13q12.2-162.del	DNA	Copy number gain
+gain_chr13:27774389-30804409.LumB.13q12.3-163.del	DNA	Copy number gain
+gain_chr13:31211674-31275009.LumB.13q13.1-164.del	DNA	Copy number gain
+gain_chr13:46362859-48209064.BeroukhimS2.13q14.2.del.RB1	DNA	Copy number gain
+gain_chr13:72212826-74986423.BeroukhimS5.del	DNA	Copy number gain
+gain_chr13:89500014-93206506.BeroukhimS2.13q31.3.amp	DNA	Copy number gain
+gain_chr13:92308911-94031607.BeroukhimS2.13q31.3.del.GPC6	DNA	Copy number gain
+gain_chr13:104916365-104941384.Basal.13q33.2-84.amp	DNA	Copy number gain
+gain_chr13:106620319-107317084.Basal.13q33.3-85.amp	DNA	Copy number gain
+gain_chr13:108477140-110084607.BeroukhimS2.13q34.amp	DNA	Copy number gain
+gain_chr13:109973420-114110898.Basal.13q34-86.amp	DNA	Copy number gain
+gain_chr13:111767404-114142980.BeroukhimS2.13q34.del	DNA	Copy number gain
+gain_chr13:112030830-113770959.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr14:1-23145193.BeroukhimS2.14q11.2.amp	DNA	Copy number gain
+gain_chr14:1-29140968.BeroukhimS2.14q11.2.del	DNA	Copy number gain
+gain_14.q.wholearm.chr14:15600000-106368585	DNA	Copy number gain
+gain_chr14:21961377-23608756.Basal.14q11.2-87.del	DNA	Copy number gain
+gain_chr14:23609961-31698685.Basal.14q12-88.del	DNA	Copy number gain
+gain_chr14:28763785-29367842.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr14:31868274-34078694.Basal.14q13.1-89.del	DNA	Copy number gain
+gain_chr14:34100051-35410919.Basal.14q13.2-90.del	DNA	Copy number gain
+gain_chr14:35708407-36097605.BeroukhimS2.14q13.3.amp.NKX2-1	DNA	Copy number gain
+gain_chr14:35837522-37090214.Basal.14q13.3-91.del	DNA	Copy number gain
+gain_chr14:37128947-38971371.Basal.14q21.1-92.del	DNA	Copy number gain
+gain_chr14:49113809-52311409.Basal.14q22.1-93.del	DNA	Copy number gain
+gain_chr14:50062686-50445987.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr14:52311662-54325595.Basal.14q22.2-94.del	DNA	Copy number gain
+gain_chr14:54378476-55837783.Basal.14q22.3-95.del	DNA	Copy number gain
+gain_chr14:56307190-56415610.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr14:57736586-58085299.Basal.14q23.1-96.del	DNA	Copy number gain
+gain_chr14:65275722-67085224.BeroukhimS2.14q23.3.del	DNA	Copy number gain
+gain_chr14:69312342-69568836.Basal.14q24.2-97.del	DNA	Copy number gain
+gain_chr14:77311255-79682157.BeroukhimS5.del	DNA	Copy number gain
+gain_chr14:77945724-77992686.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr14:80741860-106368585.BeroukhimS2.14q32.12.del	DNA	Copy number gain
+gain_chr14:92049878-92765306.Basal.14q32.12-98.del	DNA	Copy number gain
+gain_chr14:92773649-95250286.Basal.14q32.13-99.del	DNA	Copy number gain
+gain_chr14:93528266-103946058.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr14:95740950-100105884.Basal.14q32.2-100.del	DNA	Copy number gain
+gain_chr15:1-24740084.BeroukhimS2.15q11.2.del	DNA	Copy number gain
+gain_15.q.wholearm.chr15:17000000-100338915	DNA	Copy number gain
+gain_chr15:28193434-29022600.Basal.15q13.2-101.del	DNA	Copy number gain
+gain_chr15:29020705-31945591.Basal.15q13.3-102.del	DNA	Copy number gain
+gain_chr15:31945721-37862331.Basal.15q14-103.del	DNA	Copy number gain
+gain_chr15:35140533-43473382.BeroukhimS2.15q15.1.del	DNA	Copy number gain
+gain_chr15:37880223-38115089.Basal.15q15.1-104.del	DNA	Copy number gain
+gain_chr15:49136093-51017946.Basal.15q21.2-105.del	DNA	Copy number gain
+gain_chr15:51593230-55368004.Basal.15q21.3-106.del	DNA	Copy number gain
+gain_chr15:56490060-57176541.Basal.15q22.1-107.del	DNA	Copy number gain
+gain_chr15:57184612-61461128.Basal.15q22.2-108.del	DNA	Copy number gain
+gain_chr15:61583863-61913200.Basal.15q22.31-109.del	DNA	Copy number gain
+gain_chr15:65899096-66370691.Basal.15q23-110.del	DNA	Copy number gain
+gain_chr15:75011134-75564998.Basal.15q24.3-111.del	DNA	Copy number gain
+gain_chr15:88253886-88997242.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr15:96891354-97698742.BeroukhimS2.15q26.3.amp.IGF1R	DNA	Copy number gain
+gain_chr16:1-359092.BeroukhimS2.16p13.3.del	DNA	Copy number gain
+gain_16.p.wholearm.chr16:1-38200000	DNA	Copy number gain
+gain_chr16:5062786-7709383.BeroukhimS2.16p13.3.del.A2BP1	DNA	Copy number gain
+gain_chr16:11352227-11658331.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr16:31854743-53525739.BeroukhimS2.16q11.2.del	DNA	Copy number gain
+gain_16.q.wholearm.chr16:38200000-88827254	DNA	Copy number gain
+gain_chr16:45393460-45522699.LumA.16q11.2-119.del	DNA	Copy number gain
+gain_chr16:45546775-51138307.LumA.16q12.1-120.del	DNA	Copy number gain
+gain_chr16:51646446-54466783.LumA.16q12.2-121.del	DNA	Copy number gain
+gain_chr16:54782803-56638303.LumA.16q13-122.del	DNA	Copy number gain
+gain_chr16:56705000-65205296.LumA.16q21-123.del	DNA	Copy number gain
+gain_chr16:56791457-72871981.BeroukhimS5.del	DNA	Copy number gain
+gain_chr16:65206155-69392572.LumA.16q22.1-124.del	DNA	Copy number gain
+gain_chr16:69398793-73198518.LumA.16q22.3-125.del	DNA	Copy number gain
+gain_chr16:73739922-78192112.LumA.16q23.1-126.del	DNA	Copy number gain
+gain_chr16:76685816-78205652.BeroukhimS2.16q23.1.del.WWOX	DNA	Copy number gain
+gain_chr16:79132355-80549399.LumA.16q23.2-127.del	DNA	Copy number gain
+gain_chr16:80588753-82633263.LumA.16q23.3-128.del	DNA	Copy number gain
+gain_chr16:80759878-82408573.BeroukhimS2.16q23.3.del.CDH13	DNA	Copy number gain
+gain_chr16:82644872-85172804.LumA.16q24.1-129.del	DNA	Copy number gain
+gain_chr16:85920445-87225756.LumA.16q24.2-130.del	DNA	Copy number gain
+gain_chr16:87232502-87749670.LumA.16q24.3-131.del	DNA	Copy number gain
+gain_chr16:88436931-88827254.BeroukhimS2.16q24.3.del	DNA	Copy number gain
+gain_17.p.wholearm.chr17:1-22200000	DNA	Copy number gain
+gain_chr17:7471230-7717938.BeroukhimS2.17p13.1.del.TP53	DNA	Copy number gain
+gain_chr17:10675416-12635879.BeroukhimS2.17p12.del.MAP2K4	DNA	Copy number gain
+gain_chr17:18837023-19933105.BeroukhimS2.17p11.2.amp	DNA	Copy number gain
+gain_chr17:20027154-20122158.BeroukhimS5.amp	DNA	Copy number gain
+gain_17.q.wholearm.chr17:22200000-78774742	DNA	Copy number gain
+gain_chr17:22479313-22877776.BeroukhimS2.17q11.1.amp	DNA	Copy number gain
+gain_chr17:24112056-24310787.BeroukhimS2.17q11.2.amp	DNA	Copy number gain
+gain_chr17:24936541-25468309.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:26185485-27216066.BeroukhimS2.17q11.2.del.NF1	DNA	Copy number gain
+gain_chr17:28881201-29652449.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:31895171-33758810.BeroukhimS5.del	DNA	Copy number gain
+gain_chr17:33754231-34162198.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:35067383-35272328.BeroukhimS2.17q12.amp.ERBB2	DNA	Copy number gain
+gain_chr17:36989609-37319012.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:37319013-37988602.BeroukhimS2.17q21.2.del	DNA	Copy number gain
+gain_chr17:39354620-40542083.BeroukhimS5.del	DNA	Copy number gain
+gain_chr17:41015664-41353348.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:44673157-45060263.BeroukhimS2.17q21.33.amp	DNA	Copy number gain
+gain_chr17:45731662-46009941.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:51748757-53292386.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:55144989-55540417.BeroukhimS2.17q23.1.amp	DNA	Copy number gain
+gain_chr17:58249995-58447640.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:59852249-60135967.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:62318152-63890591.BeroukhimS2.17q24.2.amp	DNA	Copy number gain
+gain_chr17:63942109-65847254.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:70767943-71305641.BeroukhimS2.17q25.1.amp	DNA	Copy number gain
+gain_chr17:75915141-77213225.BeroukhimS5.del	DNA	Copy number gain
+gain_chr17:77653047-78605474.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr17:78087533-78774742.BeroukhimS2.17q25.3.del	DNA	Copy number gain
+gain_chr18:1-587750.BeroukhimS2.18p11.32.del	DNA	Copy number gain
+gain_18.p.wholearm.chr18:1-16100000	DNA	Copy number gain
+gain_chr18:3200634-3858775.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr18:3240326-5937123.BeroukhimS5.del	DNA	Copy number gain
+gain_chr18:13905410-14018535.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr18:14720419-16909449.BeroukhimS5.amp	DNA	Copy number gain
+gain_18.q.wholearm.chr18:16100000-76117153	DNA	Copy number gain
+gain_chr18:17749667-22797232.BeroukhimS2.18q11.2.amp	DNA	Copy number gain
+gain_chr18:32113759-32649538.BeroukhimS5.del	DNA	Copy number gain
+gain_chr18:44506813-45038631.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr18:46172638-49935241.BeroukhimS2.18q21.2.del.SMAD4.DCC	DNA	Copy number gain
+gain_chr18:75796373-76117153.BeroukhimS2.18q23.del	DNA	Copy number gain
+gain_chr19:1-526082.BeroukhimS2.19p13.3.del	DNA	Copy number gain
+gain_19.p.wholearm.chr19:1-28500000	DNA	Copy number gain
+gain_chr19:1818912-2004994.BeroukhimS5.del	DNA	Copy number gain
+gain_chr19:7321723-7480918.BeroukhimS5.del	DNA	Copy number gain
+gain_chr19:8920808-8939190.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr19:10895846-11164554.BeroukhimS5.del	DNA	Copy number gain
+gain_chr19:15641747-15670750.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr19:21788507-34401877.BeroukhimS2.19p12.del	DNA	Copy number gain
+gain_19.q.wholearm.chr19:28500000-63811651	DNA	Copy number gain
+gain_chr19:32764651-33569283.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr19:34975531-35098303.BeroukhimS2.19q12.amp.CCNE1	DNA	Copy number gain
+gain_chr19:37265855-38702029.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr19:39664720-39962225.Basal.19q13.11-112.amp	DNA	Copy number gain
+gain_chr19:39677306-41155075.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr19:43177306-45393020.BeroukhimS2.19q13.2.amp	DNA	Copy number gain
+gain_chr19:44889764-44995371.BeroukhimS5.del	DNA	Copy number gain
+gain_chr19:47121673-49919582.BeroukhimS5.del	DNA	Copy number gain
+gain_chr19:49818193-50114786.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr19:52031294-53331283.BeroukhimS2.19q13.32.del	DNA	Copy number gain
+gain_chr19:53372336-53572212.BeroukhimS5.del	DNA	Copy number gain
+gain_chr19:59066340-59471027.BeroukhimS2.19q13.42.amp	DNA	Copy number gain
+gain_chr19:63402921-63811651.BeroukhimS2.19q13.43.del	DNA	Copy number gain
+gain_chr20:1-325978.BeroukhimS2.2p13.del	DNA	Copy number gain
+gain_20.p.wholearm.chr20:1-27100000	DNA	Copy number gain
+gain_chr20:14210829-15988895.BeroukhimS2.2p12.1.del.MACROD2	DNA	Copy number gain
+gain_chr20:20585029-20740450.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr20:22719364-23648289.BeroukhimS5.amp	DNA	Copy number gain
+gain_20.q.wholearm.chr20:27100000-62435964	DNA	Copy number gain
+gain_chr20:29526118-29834552.BeroukhimS2.2q11.21.amp.BCL2L1	DNA	Copy number gain
+gain_chr20:33386980-33969561.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr20:34179462-45265004.BeroukhimS5.del	DNA	Copy number gain
+gain_chr20:40134806-41603948.LumB.20q13.11-165.amp	DNA	Copy number gain
+gain_chr20:41621022-45719023.LumB.20q13.12-166.amp	DNA	Copy number gain
+gain_chr20:45719063-49181611.LumB.20q13.13-167.amp	DNA	Copy number gain
+gain_chr20:49438571-52269898.LumB.20q13.2-168.amp	DNA	Copy number gain
+gain_chr20:51603033-51989829.BeroukhimS2.2q13.2.amp	DNA	Copy number gain
+gain_chr20:56249879-56298730.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr20:59868877-61137250.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr20:61329497-62435964.BeroukhimS2.2q13.33.amp	DNA	Copy number gain
+gain_21.p.wholearm.chr21:1-12300000	DNA	Copy number gain
+gain_21.q.wholearm.chr21:12300000-46944323	DNA	Copy number gain
+gain_chr21:16248572-25859193.BeroukhimS5.del	DNA	Copy number gain
+gain_chr21:35022364-36008600.BeroukhimS5.del	DNA	Copy number gain
+gain_chr21:38584860-42033506.BeroukhimS2.21q22.2.del.DSCAM.TMPRSS2.ERG	DNA	Copy number gain
+gain_chr21:44316476-46902240.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr21:46690655-46902240.BeroukhimS5.del	DNA	Copy number gain
+gain_22.q.wholearm.chr22:11800000-49691432	DNA	Copy number gain
+gain_chr22:15272143-16594738.BeroukhimS5.del	DNA	Copy number gain
+gain_chr22:18689393-20139185.BeroukhimS5.del	DNA	Copy number gain
+gain_chr22:19172385-19746441.BeroukhimS2.22q11.21.amp.CRKL	DNA	Copy number gain
+gain_chr22:20517661-21169423.BeroukhimS2.22q11.22.del	DNA	Copy number gain
+gain_chr22:22437934-22507511.BeroukhimS5.del	DNA	Copy number gain
+gain_chr22:23139372-23249329.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr22:31596415-33790650.BeroukhimS5.del	DNA	Copy number gain
+gain_chr22:36048950-38681384.BeroukhimS5.amp	DNA	Copy number gain
+gain_chr22:37740208-38258806.Basal.22q13.1-113.amp	DNA	Copy number gain
+gain_chr22:45488286-49691432.BeroukhimS2.22q13.33.del	DNA	Copy number gain
+gain_chrX:1-3243111.BeroukhimS2.Xp22.33.del	DNA	Copy number gain
+gain_X.pwholearm.chrX:1-60000000	DNA	Copy number gain
+gain_chrX:6695466-8345492.BeroukhimS5.del	DNA	Copy number gain
+gain_chrX:8707411-9925292.BeroukhimS5.del	DNA	Copy number gain
+gain_chrX:14236816-19468566.BeroukhimS5.amp	DNA	Copy number gain
+gain_chrX:31041721-34564697.BeroukhimS2.Xp21.2.del.DMD	DNA	Copy number gain
+gain_chrX:43505580-46847125.BeroukhimS5.amp	DNA	Copy number gain
+gain_X.qwholearm.chrX:60000000-154913754	DNA	Copy number gain
+gain_chrX:66436234-67090514.BeroukhimS2.Xq12.amp.AR	DNA	Copy number gain
+gain_chrX:69545961-73353657.BeroukhimS5.amp	DNA	Copy number gain
+gain_chrX:139424793-139908341.BeroukhimS5.del	DNA	Copy number gain
+gain_chrX:148267454-148753845.BeroukhimS5.amp	DNA	Copy number gain
+gain_chrX:152729030-154913754.BeroukhimS2.Xq28.amp	DNA	Copy number gain
+loss_1.p.wholearm.chr1:1-124300000	DNA	Copy number loss
+loss_chr1:3756302-6867390.BeroukhimS2.1p36.31.del	DNA	Copy number loss
+loss_chr1:26377344-27532551.BeroukhimS2.1p36.11.del	DNA	Copy number loss
+loss_chr1:27351829-27460967.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:39907605-40263248.BeroukhimS2.1p34.2.amp.MYCL1	DNA	Copy number loss
+loss_chr1:41717036-43943775.Basal.1p34.2-1.amp	DNA	Copy number loss
+loss_chr1:43945805-44960161.Basal.1p34.1-2.amp	DNA	Copy number loss
+loss_chr1:46541957-46555032.Basal.1p33-3.amp	DNA	Copy number loss
+loss_chr1:58658784-60221344.BeroukhimS2.1p32.1.amp.JUN	DNA	Copy number loss
+loss_chr1:71284749-74440273.BeroukhimS2.1p31.1.del.NEGR1	DNA	Copy number loss
+loss_chr1:110339388-119426489.BeroukhimS2.1p13.2.del	DNA	Copy number loss
+loss_chr1:114889793-115149999.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:118282114-118807006.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:119996566-120303234.BeroukhimS2.1p12.amp	DNA	Copy number loss
+loss_1.q.wholearm.chr1:124300000-247249719	DNA	Copy number loss
+loss_chr1:144078052-144943150.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:148661965-149063439.BeroukhimS2.1q21.2.amp.MCL1	DNA	Copy number loss
+loss_chr1:151026302-152973244.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:158317017-159953843.BeroukhimS2.1q23.3.amp	DNA	Copy number loss
+loss_chr1:162199047-163197517.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:163619952-164752515.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:166729757-167532460.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:168438419-168880930.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:169549478-170484405.BeroukhimS2.1q24.3.amp	DNA	Copy number loss
+loss_chr1:174611641-175371076.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr1:201678483-203358272.BeroukhimS2.1q32.1.amp.MDM4	DNA	Copy number loss
+loss_chr1:223876038-247249719.BeroukhimS2.1q43.del.RYR2	DNA	Copy number loss
+loss_chr1:241364021-247249719.BeroukhimS2.1q44.amp	DNA	Copy number loss
+loss_chr2:1-15244284.BeroukhimS2.2p25.3.del	DNA	Copy number loss
+loss_2.p.wholearm.chr2:1-93300000	DNA	Copy number loss
+loss_chr2:15977811-16073001.BeroukhimS2.2p24.3.amp.MYCN	DNA	Copy number loss
+loss_chr2:32460827-55039898.BeroukhimS5.del	DNA	Copy number loss
+loss_chr2:53680282-53845245.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr2:61834240-63151654.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr2:79257340-80427237.BeroukhimS5.del	DNA	Copy number loss
+loss_2.q.wholearm.chr2:93300000-242951149	DNA	Copy number loss
+loss_chr2:121187279-122198612.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr2:135029078-135167772.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr2:138479322-143365272.BeroukhimS2.2q22.1.del.LRP1B	DNA	Copy number loss
+loss_chr2:154436672-155018734.HER2-enriched.2q23.3-114.amp	DNA	Copy number loss
+loss_chr2:156889194-159797412.HER2-enriched.2q24.1-115.amp	DNA	Copy number loss
+loss_chr2:159800558-163403274.HER2-enriched.2q24.2-116.amp	DNA	Copy number loss
+loss_chr2:164158152-168812365.HER2-enriched.2q24.3-117.amp	DNA	Copy number loss
+loss_chr2:173927807-175001974.HER2-enriched.2q31.1-118.amp	DNA	Copy number loss
+loss_chr2:204533830-206266883.BeroukhimS2.2q33.2.del.PARD3B	DNA	Copy number loss
+loss_chr2:241477619-242951149.BeroukhimS2.2q37.3.del	DNA	Copy number loss
+loss_chr3:1-2121282.BeroukhimS2.3p26.3.del	DNA	Copy number loss
+loss_3.p.wholearm.chr3:1-91700000	DNA	Copy number loss
+loss_chr3:41866-18694914.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr3:36286137-40063081.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr3:43362938-44130419.BeroukhimS5.del	DNA	Copy number loss
+loss_chr3:58626894-61524607.BeroukhimS2.3p14.2.del.FHIT	DNA	Copy number loss
+loss_chr3:66644057-68118027.BeroukhimS5.del	DNA	Copy number loss
+loss_chr3:70107050-74383584.BeroukhimS5.del	DNA	Copy number loss
+loss_chr3:86250885-95164178.BeroukhimS2.3p11.1.amp	DNA	Copy number loss
+loss_3.q.wholearm.chr3:91700000-199501827	DNA	Copy number loss
+loss_chr3:116900556-120107320.BeroukhimS2.3q13.31.del	DNA	Copy number loss
+loss_chr3:170024984-173604597.BeroukhimS2.3q26.2.amp.PRKCI	DNA	Copy number loss
+loss_chr3:175446835-178263192.BeroukhimS2.3q26.31.del.NAALADL2	DNA	Copy number loss
+loss_chr3:178149984-199501827.BeroukhimS2.3q28.amp.PIK3CA	DNA	Copy number loss
+loss_chr4:1-435793.BeroukhimS2.4p16.3.del	DNA	Copy number loss
+loss_4.p.wholearm.chr4:1-50700000	DNA	Copy number loss
+loss_chr4:1234177-1683843.Basal.4p16.3-4.del	DNA	Copy number loss
+loss_chr4:3220565-5553626.Basal.4p16.2-5.del	DNA	Copy number loss
+loss_chr4:4349500-4427489.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr4:5577784-10295484.Basal.4p16.1-6.del	DNA	Copy number loss
+loss_chr4:10979549-15266111.Basal.4p15.33-7.del	DNA	Copy number loss
+loss_chr4:13238819-37565122.BeroukhimS5.del	DNA	Copy number loss
+loss_chr4:15313739-17632477.Basal.4p15.32-8.del	DNA	Copy number loss
+loss_chr4:19864333-22430289.Basal.4p15.31-9.del	DNA	Copy number loss
+loss_chr4:23402742-26636101.Basal.4p15.2-10.del	DNA	Copy number loss
+loss_chr4:30331135-30753569.Basal.4p15.1-11.del	DNA	Copy number loss
+loss_chr4:37121738-38804810.Basal.4p14-12.del	DNA	Copy number loss
+loss_chr4:41057559-42353879.Basal.4p13-13.del	DNA	Copy number loss
+loss_4.q.wholearm.chr4:50700000-191273063	DNA	Copy number loss
+loss_chr4:54471680-55980061.BeroukhimS2.4q12.amp.PDGFRA.KIT	DNA	Copy number loss
+loss_chr4:71492582-75938920.Basal.4q13.3-15.del	DNA	Copy number loss
+loss_chr4:73526461-75252649.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr4:76623381-79684447.Basal.4q21.1-16.del	DNA	Copy number loss
+loss_chr4:79691766-80079606.Basal.4q21.21-17.del	DNA	Copy number loss
+loss_chr4:83634873-83961360.BeroukhimS5.del	DNA	Copy number loss
+loss_chr4:91089383-93486891.BeroukhimS2.4q22.1.del	DNA	Copy number loss
+loss_chr4:104889590-106814504.BeroukhimS5.del	DNA	Copy number loss
+loss_chr4:112023722-118112513.BeroukhimS5.del	DNA	Copy number loss
+loss_chr4:114219937-114355024.Basal.4q26-18.del	DNA	Copy number loss
+loss_chr4:143168636-143603331.Basal.4q31.21-19.del	DNA	Copy number loss
+loss_chr4:147085600-153449318.BeroukhimS5.del	DNA	Copy number loss
+loss_chr4:151218876-154929678.Basal.4q31.3-20.del	DNA	Copy number loss
+loss_chr4:155375138-160500747.Basal.4q32.1-21.del	DNA	Copy number loss
+loss_chr4:162524501-164492534.Basal.4q32.2-22.del	DNA	Copy number loss
+loss_chr4:164612456-170167997.Basal.4q32.3-23.del	DNA	Copy number loss
+loss_chr4:170251982-170915637.Basal.4q33-24.del	DNA	Copy number loss
+loss_chr4:174326479-176135905.Basal.4q34.1-25.del	DNA	Copy number loss
+loss_chr4:175486008-184028292.BeroukhimS5.del	DNA	Copy number loss
+loss_chr4:176791083-177486490.Basal.4q34.2-26.del	DNA	Copy number loss
+loss_chr4:186684565-191273063.BeroukhimS2.4q35.2.del	DNA	Copy number loss
+loss_5.p.wholearm.chr5:1-47700000	DNA	Copy number loss
+loss_chr5:1212750-1378766.BeroukhimS2.5p15.33.amp.TERT	DNA	Copy number loss
+loss_chr5:1473801-6790134.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr5:9224578-10673735.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr5:18240864-21565169.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr5:36750649-37111693.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr5:39149695-41885012.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr5:43612947-44998256.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr5:45312870-49697231.BeroukhimS2.5p11.amp	DNA	Copy number loss
+loss_5.q.wholearm.chr5:47700000-180857866	DNA	Copy number loss
+loss_chr5:49730236-50173926.Basal.5q11.1-27.del	DNA	Copy number loss
+loss_chr5:52119531-58183162.Basal.5q11.2-28.del	DNA	Copy number loss
+loss_chr5:56146657-56594666.LumB.5q11.2-132.amp	DNA	Copy number loss
+loss_chr5:57754754-59053198.BeroukhimS2.5q11.2.del.PDE4D	DNA	Copy number loss
+loss_chr5:58300629-59320301.LumB.5q12.1-133.amp	DNA	Copy number loss
+loss_chr5:58300629-62108926.Basal.5q12.1-29.del	DNA	Copy number loss
+loss_chr5:63292034-63701397.Basal.5q12.2-30.del	DNA	Copy number loss
+loss_chr5:63838208-66501179.Basal.5q12.3-31.del	DNA	Copy number loss
+loss_chr5:66513872-67633403.Basal.5q13.1-32.del	DNA	Copy number loss
+loss_chr5:68425638-71536822.LumB.5q13.2-134.amp	DNA	Copy number loss
+loss_chr5:68425638-72913540.Basal.5q13.2-33.del	DNA	Copy number loss
+loss_chr5:73958991-76396789.Basal.5q13.3-34.del	DNA	Copy number loss
+loss_chr5:76408288-81082828.Basal.5q14.1-35.del	DNA	Copy number loss
+loss_chr5:81303630-82685333.Basal.5q14.2-36.del	DNA	Copy number loss
+loss_chr5:82803339-90714877.Basal.5q14.3-37.del	DNA	Copy number loss
+loss_chr5:85837489-133480433.BeroukhimS2.5q21.1.del.APC	DNA	Copy number loss
+loss_chr5:92250850-96544700.Basal.5q15-38.del	DNA	Copy number loss
+loss_chr5:98132900-102642260.Basal.5q21.1-39.del	DNA	Copy number loss
+loss_chr5:101597589-102642260.LumB.5q21.1-135.amp	DNA	Copy number loss
+loss_chr5:102912456-102926389.Basal.5q21.2-40.del	DNA	Copy number loss
+loss_chr5:102912456-102926389.LumB.5q21.2-136.amp	DNA	Copy number loss
+loss_chr5:106744250-109231328.Basal.5q21.3-41.del	DNA	Copy number loss
+loss_chr5:109877429-111137815.Basal.5q22.1-42.del	DNA	Copy number loss
+loss_chr5:111507433-112958878.Basal.5q22.2-43.del	DNA	Copy number loss
+loss_chr5:113725565-115180304.Basal.5q22.3-44.del	DNA	Copy number loss
+loss_chr5:115193714-121517156.Basal.5q23.1-45.del	DNA	Copy number loss
+loss_chr5:121675719-127022221.Basal.5q23.2-46.del	DNA	Copy number loss
+loss_chr5:125787000-126200608.LumB.5q23.2-137.amp	DNA	Copy number loss
+loss_chr5:127447382-129549383.Basal.5q23.3-47.del	DNA	Copy number loss
+loss_chr5:128458341-128477620.LumB.5q23.3-138.amp	DNA	Copy number loss
+loss_chr5:130522776-135427403.Basal.5q31.1-48.del	DNA	Copy number loss
+loss_chr5:135493104-138988200.Basal.5q31.2-49.del	DNA	Copy number loss
+loss_chr5:139008130-142795270.Basal.5q31.3-50.del	DNA	Copy number loss
+loss_chr5:143171919-147191453.Basal.5q32-51.del	DNA	Copy number loss
+loss_chr5:147238467-151765017.Basal.5q33.1-52.del	DNA	Copy number loss
+loss_chr5:152850499-154326721.Basal.5q33.2-53.del	DNA	Copy number loss
+loss_chr5:155686345-159845035.Basal.5q33.3-54.del	DNA	Copy number loss
+loss_chr5:159922707-167623739.Basal.5q34-55.del	DNA	Copy number loss
+loss_chr5:167651670-171366482.Basal.5q35.1-56.del	DNA	Copy number loss
+loss_chr5:172591744-174888201.Basal.5q35.2-57.del	DNA	Copy number loss
+loss_chr5:174477192-180857866.BeroukhimS2.5q35.3.amp	DNA	Copy number loss
+loss_chr5:176660805-180009206.Basal.5q35.3-58.del	DNA	Copy number loss
+loss_chr5:177541057-180857866.BeroukhimS2.5q35.3.del	DNA	Copy number loss
+loss_chr6:1-23628840.BeroukhimS2.6p24.1.amp	DNA	Copy number loss
+loss_6.p.wholearm.chr6:1-60500000	DNA	Copy number loss
+loss_chr6:110391-1254918.BeroukhimS5.del	DNA	Copy number loss
+loss_chr6:1543157-2570302.BeroukhimS2.6p25.3.del	DNA	Copy number loss
+loss_chr6:4058046-25852810.BeroukhimS5.del	DNA	Copy number loss
+loss_chr6:13729714-14088212.Basal.6p23-59.amp	DNA	Copy number loss
+loss_chr6:30420923-31893702.LumB.6p21.33-139.del	DNA	Copy number loss
+loss_chr6:31910383-31915520.LumB.6p21.32-140.del	DNA	Copy number loss
+loss_chr6:38787570-41935171.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr6:42772314-43039595.Basal.6p21.1-60.amp	DNA	Copy number loss
+loss_chr6:43556800-44361368.BeroukhimS2.6p21.1.amp	DNA	Copy number loss
+loss_chr6:54352087-55392731.BeroukhimS5.amp	DNA	Copy number loss
+loss_6.q.wholearm.chr6:60500000-170899992	DNA	Copy number loss
+loss_chr6:63255006-65243766.BeroukhimS2.6q12.amp	DNA	Copy number loss
+loss_chr6:76630464-105342994.BeroukhimS2.6q16.1.del	DNA	Copy number loss
+loss_chr6:101000242-121511318.BeroukhimS2.6q22.1.del	DNA	Copy number loss
+loss_chr6:106604408-107782614.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr6:116369389-117096650.LumB.6q22.1-141.del	DNA	Copy number loss
+loss_chr6:117109043-117359993.LumB.6q22.2-142.del	DNA	Copy number loss
+loss_chr6:119295855-120272161.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr6:129217882-131730157.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr6:135561194-135665525.BeroukhimS2.6q23.3.amp.MYB	DNA	Copy number loss
+loss_chr6:137619861-138589104.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr6:139381116-139689363.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr6:143157329-144194971.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr6:149442557-149779188.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr6:157695838-157823719.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr6:161612277-163134099.BeroukhimS2.6q26.del.PARK2	DNA	Copy number loss
+loss_7.p.wholearm.chr7:1-59100000	DNA	Copy number loss
+loss_chr7:3046420-4279470.BeroukhimS2.7p22.2.del.SDK1	DNA	Copy number loss
+loss_chr7:3516940-6019790.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr7:16017926-18944036.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr7:54899301-55275419.BeroukhimS2.7p11.2.amp.EGFR	DNA	Copy number loss
+loss_7.q.wholearm.chr7:59100000-158821424	DNA	Copy number loss
+loss_chr7:65877239-79629882.BeroukhimS2.7q21.11.del.MAGI2	DNA	Copy number loss
+loss_chr7:83246850-83689170.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr7:86091574-88424037.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr7:87797038-89779004.BeroukhimS5.del	DNA	Copy number loss
+loss_chr7:89924533-98997268.BeroukhimS2.7q21.3.amp.CDK6	DNA	Copy number loss
+loss_chr7:92829306-132566935.BeroukhimS5.del	DNA	Copy number loss
+loss_chr7:102988499-103837783.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr7:115981465-116676953.BeroukhimS2.7q31.2.amp.MET	DNA	Copy number loss
+loss_chr7:129281946-131188950.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr7:137042370-158819393.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr7:141592807-142264966.BeroukhimS2.7q34.del.TRB	DNA	Copy number loss
+loss_chr7:144118814-148066271.BeroukhimS2.7q35.del.CNTNAP2	DNA	Copy number loss
+loss_chr7:156893473-158821424.BeroukhimS2.7q36.3.del.PTPRN2	DNA	Copy number loss
+loss_chr8:1-392555.BeroukhimS2.8p23.3.del	DNA	Copy number loss
+loss_8.p.wholearm.chr8:1-45200000	DNA	Copy number loss
+loss_chr8:2053441-6259545.BeroukhimS2.8p23.2.del.CSMD1	DNA	Copy number loss
+loss_chr8:11575198-11708771.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:22125332-30139123.BeroukhimS2.8p21.2.del	DNA	Copy number loss
+loss_chr8:29285985-30473918.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:38252951-38460772.BeroukhimS2.8p12.amp.FGFR1	DNA	Copy number loss
+loss_chr8:39008109-41238710.BeroukhimS2.8p11.22.del	DNA	Copy number loss
+loss_chr8:41004735-41425303.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:42006632-42404492.BeroukhimS2.8p11.21.amp	DNA	Copy number loss
+loss_chr8:42971602-72924037.BeroukhimS2.8q11.22.del.SNTG1	DNA	Copy number loss
+loss_8.q.wholearm.chr8:45200000-146274826	DNA	Copy number loss
+loss_chr8:62174237-62716885.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:81242335-81979194.BeroukhimS2.8q21.13.amp	DNA	Copy number loss
+loss_chr8:82099049-82634968.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:84799647-85622331.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:94587173-100685605.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:101163387-103693879.BeroukhimS2.8q22.3.amp	DNA	Copy number loss
+loss_chr8:108043446-108683856.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:116186189-120600761.BeroukhimS2.8q24.11.amp	DNA	Copy number loss
+loss_chr8:128414451-128718816.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:128774432-128849112.BeroukhimS2.8q24.21.amp.MYC	DNA	Copy number loss
+loss_chr8:128823745-146264218.BeroukhimS5.del	DNA	Copy number loss
+loss_chr8:133698327-133914560.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr8:140458177-146274826.BeroukhimS2.8q24.3.amp	DNA	Copy number loss
+loss_chr9:1-708871.BeroukhimS2.9p24.3.del	DNA	Copy number loss
+loss_9.p.wholearm.chr9:1-51800000	DNA	Copy number loss
+loss_chr9:235706-8362053.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr9:831690-1047552.Basal.9p24.3-61.amp	DNA	Copy number loss
+loss_chr9:7161607-12713130.BeroukhimS2.9p24.1.del.PTPRD	DNA	Copy number loss
+loss_chr9:12683435-13935586.Basal.9p23-62.amp	DNA	Copy number loss
+loss_chr9:14071847-14900353.Basal.9p22.3-63.amp	DNA	Copy number loss
+loss_chr9:21489625-22474701.BeroukhimS2.9p21.3.del.CDKN2A.B	DNA	Copy number loss
+loss_chr9:23819824-26891068.BeroukhimS5.del	DNA	Copy number loss
+loss_chr9:26573226-29470065.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr9:34233377-35934224.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr9:36365710-37139941.BeroukhimS2.9p13.2.del.PAX5	DNA	Copy number loss
+loss_chr9:36988416-36998984.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr9:37861914-38370450.BeroukhimS5.del	DNA	Copy number loss
+loss_9.q.wholearm.chr9:51800000-140273252	DNA	Copy number loss
+loss_chr9:71280626-72167093.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr9:97183463-97625342.BeroukhimS5.del	DNA	Copy number loss
+loss_chr9:110661885-116923292.BeroukhimS5.del	DNA	Copy number loss
+loss_chr9:110838572-127593510.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr9:122980237-124410900.Basal.9q33.2-64.del	DNA	Copy number loss
+loss_chr9:130999928-132303780.BeroukhimS5.del	DNA	Copy number loss
+loss_chr9:137859478-140273252.BeroukhimS2.9q34.3.amp	DNA	Copy number loss
+loss_chr10:1-1042949.BeroukhimS2.1p15.3.del	DNA	Copy number loss
+loss_10.p.wholearm.chr10:1-40300000	DNA	Copy number loss
+loss_chr10:101955-12088176.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr10:170643-1769670.Basal.10p15.3-65.amp	DNA	Copy number loss
+loss_chr10:3099740-3205003.Basal.10p15.2-66.amp	DNA	Copy number loss
+loss_chr10:3811260-5139878.LumB.10p15.1-143.del	DNA	Copy number loss
+loss_chr10:3811260-6662244.Basal.10p15.1-67.amp	DNA	Copy number loss
+loss_chr10:7244255-12332593.Basal.10p14-68.amp	DNA	Copy number loss
+loss_chr10:12431738-17283687.Basal.10p13-69.amp	DNA	Copy number loss
+loss_chr10:17311250-19896508.Basal.10p12.33-70.amp	DNA	Copy number loss
+loss_chr10:19022250-42889659.BeroukhimS5.del	DNA	Copy number loss
+loss_chr10:20145174-20609292.Basal.10p12.32-71.amp	DNA	Copy number loss
+loss_chr10:21110098-22746531.Basal.10p12.31-72.amp	DNA	Copy number loss
+loss_chr10:22863772-24876778.Basal.10p12.2-73.amp	DNA	Copy number loss
+loss_chr10:24604620-28074753.Basal.10p12.1-74.amp	DNA	Copy number loss
+loss_chr10:28141103-31360860.Basal.10p11.23-75.amp	DNA	Copy number loss
+loss_chr10:31648148-32903498.Basal.10p11.22-76.amp	DNA	Copy number loss
+loss_chr10:35175415-37212810.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr10:38685321-38707438.LumB.10p11.21-144.del	DNA	Copy number loss
+loss_10.q.wholearm.chr10:40300000-135374737	DNA	Copy number loss
+loss_chr10:52313829-53768264.BeroukhimS2.1q11.23.del.PRKG1	DNA	Copy number loss
+loss_chr10:54201467-57779853.BeroukhimS5.del	DNA	Copy number loss
+loss_chr10:61909390-66364553.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr10:73394126-73443318.LumB.10q22.1-145.del	DNA	Copy number loss
+loss_chr10:74560456-82020637.BeroukhimS2.1q22.3.amp	DNA	Copy number loss
+loss_chr10:75957348-77987139.LumB.10q22.2-146.del	DNA	Copy number loss
+loss_chr10:89467202-90419015.BeroukhimS2.1q23.31.del.PTEN	DNA	Copy number loss
+loss_chr10:118946990-119027085.LumB.10q25.3-147.del	DNA	Copy number loss
+loss_chr10:119032598-121691235.LumB.10q26.11-148.del	DNA	Copy number loss
+loss_chr10:122206456-122883255.LumB.10q26.12-149.del	DNA	Copy number loss
+loss_chr10:123214869-123367187.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr10:123223889-124739898.LumB.10q26.13-150.del	DNA	Copy number loss
+loss_chr10:128584013-129240925.LumB.10q26.2-151.del	DNA	Copy number loss
+loss_chr10:129812260-135374737.BeroukhimS2.1q26.3.del	DNA	Copy number loss
+loss_chr11:1-1391954.BeroukhimS2.11p15.5.del	DNA	Copy number loss
+loss_11.p.wholearm.chr11:1-52900000	DNA	Copy number loss
+loss_chr11:26341787-27574592.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr11:32027116-37799354.BeroukhimS2.11p13.amp	DNA	Copy number loss
+loss_chr11:42387077-47453403.BeroukhimS5.amp	DNA	Copy number loss
+loss_11.q.wholearm.chr11:52900000-134452384	DNA	Copy number loss
+loss_chr11:55503467-56066044.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr11:57344931-58658339.BeroukhimS5.del	DNA	Copy number loss
+loss_chr11:57861150-58074632.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr11:68230745-68388280.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr11:69098089-69278404.BeroukhimS2.11q13.2.amp.CCND1	DNA	Copy number loss
+loss_chr11:69588488-69842871.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr11:73357303-74035012.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr11:74085123-74337880.LumB.11q13.4-153.del	DNA	Copy number loss
+loss_chr11:74091491-74180816.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr11:76699529-78005085.BeroukhimS2.11q14.1.amp	DNA	Copy number loss
+loss_chr11:76710709-85146692.LumB.11q14.1-154.del	DNA	Copy number loss
+loss_chr11:82612034-85091467.BeroukhimS2.11q14.1.del.DLG2	DNA	Copy number loss
+loss_chr11:85633463-87710586.LumB.11q14.2-155.del	DNA	Copy number loss
+loss_chr11:87881006-92269284.LumB.11q14.3-156.del	DNA	Copy number loss
+loss_chr11:92342437-95765250.LumB.11q21-157.del	DNA	Copy number loss
+loss_chr11:101433436-102134907.BeroukhimS2.11q22.2.amp.BIRC2.YAP1	DNA	Copy number loss
+loss_chr11:104262627-109547776.LumB.11q22.3-158.del	DNA	Copy number loss
+loss_chr11:107086196-116175885.BeroukhimS2.11q23.1.del.ATM	DNA	Copy number loss
+loss_chr11:110631916-112776199.LumB.11q23.1-159.del	DNA	Copy number loss
+loss_chr11:112785528-114880322.LumB.11q23.2-160.del	DNA	Copy number loss
+loss_chr11:116803699-119605859.LumB.11q23.3-161.del	DNA	Copy number loss
+loss_chr11:130280899-134452384.BeroukhimS2.11q25.del.OPCML.HNT	DNA	Copy number loss
+loss_chr12:1-1311104.BeroukhimS2.12p13.33.amp	DNA	Copy number loss
+loss_12.p.wholearm.chr12:1-35400000	DNA	Copy number loss
+loss_chr12:8398512-8740196.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr12:10732932-10778896.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr12:11410696-12118386.BeroukhimS2.12p13.2.del.ETV6	DNA	Copy number loss
+loss_chr12:18393150-19784941.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr12:20728852-21227330.BeroukhimS5.del	DNA	Copy number loss
+loss_chr12:25189655-25352305.BeroukhimS2.12p12.1.amp.KRAS	DNA	Copy number loss
+loss_chr12:27342867-29425476.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr12:29425476-31105002.BeroukhimS5.del	DNA	Copy number loss
+loss_chr12:30999223-32594050.BeroukhimS2.12p11.21.amp	DNA	Copy number loss
+loss_chr12:33156845-33480710.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr12:34188071-44391168.BeroukhimS5.del	DNA	Copy number loss
+loss_12.q.wholearm.chr12:35400000-132349534	DNA	Copy number loss
+loss_chr12:38788913-42596599.BeroukhimS2.12q12.amp	DNA	Copy number loss
+loss_chr12:42034279-44588086.Basal.12q12-77.del	DNA	Copy number loss
+loss_chr12:44599181-47397048.Basal.12q13.11-78.del	DNA	Copy number loss
+loss_chr12:47446248-48387464.Basal.12q13.12-79.del	DNA	Copy number loss
+loss_chr12:48421630-53099317.Basal.12q13.13-80.del	DNA	Copy number loss
+loss_chr12:50987234-51048711.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr12:53136012-55168448.Basal.12q13.2-81.del	DNA	Copy number loss
+loss_chr12:55201993-55269875.Basal.12q13.3-82.del	DNA	Copy number loss
+loss_chr12:56419524-56488685.BeroukhimS2.12q14.1.amp.CDK4	DNA	Copy number loss
+loss_chr12:56621627-57600529.Basal.12q14.1-83.del	DNA	Copy number loss
+loss_chr12:63329154-63614508.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr12:64149851-66323376.BeroukhimS5.del	DNA	Copy number loss
+loss_chr12:64461446-64607139.BeroukhimS2.12q14.3.amp.HMGA2	DNA	Copy number loss
+loss_chr12:67440273-67566002.BeroukhimS2.12q15.amp.MDM2	DNA	Copy number loss
+loss_chr12:68249634-68327233.BeroukhimS2.12q15.amp	DNA	Copy number loss
+loss_chr12:70849987-70966467.BeroukhimS2.12q21.1.amp	DNA	Copy number loss
+loss_chr12:76852527-77064746.BeroukhimS2.12q21.2.amp	DNA	Copy number loss
+loss_chr12:85072329-85674601.BeroukhimS2.12q21.32.amp	DNA	Copy number loss
+loss_chr12:94480961-96479233.BeroukhimS5.del	DNA	Copy number loss
+loss_chr12:95089777-95350380.BeroukhimS2.12q23.1.amp	DNA	Copy number loss
+loss_chr12:97551177-99047626.BeroukhimS2.12q23.1.del.ANKS1B	DNA	Copy number loss
+loss_chr12:131913408-132349534.BeroukhimS2.12q24.33.del	DNA	Copy number loss
+loss_chr13:1-23902184.BeroukhimS2.13q12.11.del	DNA	Copy number loss
+loss_chr13:1-40829685.BeroukhimS2.13q12.2.amp	DNA	Copy number loss
+loss_13.q.wholearm.chr13:16000000-114142980	DNA	Copy number loss
+loss_chr13:27611014-27767472.LumB.13q12.2-162.del	DNA	Copy number loss
+loss_chr13:27774389-30804409.LumB.13q12.3-163.del	DNA	Copy number loss
+loss_chr13:31211674-31275009.LumB.13q13.1-164.del	DNA	Copy number loss
+loss_chr13:46362859-48209064.BeroukhimS2.13q14.2.del.RB1	DNA	Copy number loss
+loss_chr13:72212826-74986423.BeroukhimS5.del	DNA	Copy number loss
+loss_chr13:89500014-93206506.BeroukhimS2.13q31.3.amp	DNA	Copy number loss
+loss_chr13:92308911-94031607.BeroukhimS2.13q31.3.del.GPC6	DNA	Copy number loss
+loss_chr13:104916365-104941384.Basal.13q33.2-84.amp	DNA	Copy number loss
+loss_chr13:106620319-107317084.Basal.13q33.3-85.amp	DNA	Copy number loss
+loss_chr13:108477140-110084607.BeroukhimS2.13q34.amp	DNA	Copy number loss
+loss_chr13:109973420-114110898.Basal.13q34-86.amp	DNA	Copy number loss
+loss_chr13:111767404-114142980.BeroukhimS2.13q34.del	DNA	Copy number loss
+loss_chr13:112030830-113770959.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr14:1-23145193.BeroukhimS2.14q11.2.amp	DNA	Copy number loss
+loss_chr14:1-29140968.BeroukhimS2.14q11.2.del	DNA	Copy number loss
+loss_14.q.wholearm.chr14:15600000-106368585	DNA	Copy number loss
+loss_chr14:21961377-23608756.Basal.14q11.2-87.del	DNA	Copy number loss
+loss_chr14:23609961-31698685.Basal.14q12-88.del	DNA	Copy number loss
+loss_chr14:28763785-29367842.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr14:31868274-34078694.Basal.14q13.1-89.del	DNA	Copy number loss
+loss_chr14:34100051-35410919.Basal.14q13.2-90.del	DNA	Copy number loss
+loss_chr14:35708407-36097605.BeroukhimS2.14q13.3.amp.NKX2-1	DNA	Copy number loss
+loss_chr14:35837522-37090214.Basal.14q13.3-91.del	DNA	Copy number loss
+loss_chr14:37128947-38971371.Basal.14q21.1-92.del	DNA	Copy number loss
+loss_chr14:49113809-52311409.Basal.14q22.1-93.del	DNA	Copy number loss
+loss_chr14:50062686-50445987.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr14:52311662-54325595.Basal.14q22.2-94.del	DNA	Copy number loss
+loss_chr14:54378476-55837783.Basal.14q22.3-95.del	DNA	Copy number loss
+loss_chr14:56307190-56415610.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr14:57736586-58085299.Basal.14q23.1-96.del	DNA	Copy number loss
+loss_chr14:65275722-67085224.BeroukhimS2.14q23.3.del	DNA	Copy number loss
+loss_chr14:69312342-69568836.Basal.14q24.2-97.del	DNA	Copy number loss
+loss_chr14:77311255-79682157.BeroukhimS5.del	DNA	Copy number loss
+loss_chr14:77945724-77992686.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr14:80741860-106368585.BeroukhimS2.14q32.12.del	DNA	Copy number loss
+loss_chr14:92049878-92765306.Basal.14q32.12-98.del	DNA	Copy number loss
+loss_chr14:92773649-95250286.Basal.14q32.13-99.del	DNA	Copy number loss
+loss_chr14:93528266-103946058.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr14:95740950-100105884.Basal.14q32.2-100.del	DNA	Copy number loss
+loss_chr15:1-24740084.BeroukhimS2.15q11.2.del	DNA	Copy number loss
+loss_15.q.wholearm.chr15:17000000-100338915	DNA	Copy number loss
+loss_chr15:28193434-29022600.Basal.15q13.2-101.del	DNA	Copy number loss
+loss_chr15:29020705-31945591.Basal.15q13.3-102.del	DNA	Copy number loss
+loss_chr15:31945721-37862331.Basal.15q14-103.del	DNA	Copy number loss
+loss_chr15:35140533-43473382.BeroukhimS2.15q15.1.del	DNA	Copy number loss
+loss_chr15:37880223-38115089.Basal.15q15.1-104.del	DNA	Copy number loss
+loss_chr15:49136093-51017946.Basal.15q21.2-105.del	DNA	Copy number loss
+loss_chr15:51593230-55368004.Basal.15q21.3-106.del	DNA	Copy number loss
+loss_chr15:56490060-57176541.Basal.15q22.1-107.del	DNA	Copy number loss
+loss_chr15:57184612-61461128.Basal.15q22.2-108.del	DNA	Copy number loss
+loss_chr15:61583863-61913200.Basal.15q22.31-109.del	DNA	Copy number loss
+loss_chr15:65899096-66370691.Basal.15q23-110.del	DNA	Copy number loss
+loss_chr15:75011134-75564998.Basal.15q24.3-111.del	DNA	Copy number loss
+loss_chr15:88253886-88997242.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr15:96891354-97698742.BeroukhimS2.15q26.3.amp.IGF1R	DNA	Copy number loss
+loss_chr16:1-359092.BeroukhimS2.16p13.3.del	DNA	Copy number loss
+loss_16.p.wholearm.chr16:1-38200000	DNA	Copy number loss
+loss_chr16:5062786-7709383.BeroukhimS2.16p13.3.del.A2BP1	DNA	Copy number loss
+loss_chr16:11352227-11658331.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr16:31854743-53525739.BeroukhimS2.16q11.2.del	DNA	Copy number loss
+loss_16.q.wholearm.chr16:38200000-88827254	DNA	Copy number loss
+loss_chr16:45393460-45522699.LumA.16q11.2-119.del	DNA	Copy number loss
+loss_chr16:45546775-51138307.LumA.16q12.1-120.del	DNA	Copy number loss
+loss_chr16:51646446-54466783.LumA.16q12.2-121.del	DNA	Copy number loss
+loss_chr16:54782803-56638303.LumA.16q13-122.del	DNA	Copy number loss
+loss_chr16:56705000-65205296.LumA.16q21-123.del	DNA	Copy number loss
+loss_chr16:56791457-72871981.BeroukhimS5.del	DNA	Copy number loss
+loss_chr16:65206155-69392572.LumA.16q22.1-124.del	DNA	Copy number loss
+loss_chr16:69398793-73198518.LumA.16q22.3-125.del	DNA	Copy number loss
+loss_chr16:73739922-78192112.LumA.16q23.1-126.del	DNA	Copy number loss
+loss_chr16:76685816-78205652.BeroukhimS2.16q23.1.del.WWOX	DNA	Copy number loss
+loss_chr16:79132355-80549399.LumA.16q23.2-127.del	DNA	Copy number loss
+loss_chr16:80588753-82633263.LumA.16q23.3-128.del	DNA	Copy number loss
+loss_chr16:80759878-82408573.BeroukhimS2.16q23.3.del.CDH13	DNA	Copy number loss
+loss_chr16:82644872-85172804.LumA.16q24.1-129.del	DNA	Copy number loss
+loss_chr16:85920445-87225756.LumA.16q24.2-130.del	DNA	Copy number loss
+loss_chr16:87232502-87749670.LumA.16q24.3-131.del	DNA	Copy number loss
+loss_chr16:88436931-88827254.BeroukhimS2.16q24.3.del	DNA	Copy number loss
+loss_17.p.wholearm.chr17:1-22200000	DNA	Copy number loss
+loss_chr17:7471230-7717938.BeroukhimS2.17p13.1.del.TP53	DNA	Copy number loss
+loss_chr17:10675416-12635879.BeroukhimS2.17p12.del.MAP2K4	DNA	Copy number loss
+loss_chr17:18837023-19933105.BeroukhimS2.17p11.2.amp	DNA	Copy number loss
+loss_chr17:20027154-20122158.BeroukhimS5.amp	DNA	Copy number loss
+loss_17.q.wholearm.chr17:22200000-78774742	DNA	Copy number loss
+loss_chr17:22479313-22877776.BeroukhimS2.17q11.1.amp	DNA	Copy number loss
+loss_chr17:24112056-24310787.BeroukhimS2.17q11.2.amp	DNA	Copy number loss
+loss_chr17:24936541-25468309.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:26185485-27216066.BeroukhimS2.17q11.2.del.NF1	DNA	Copy number loss
+loss_chr17:28881201-29652449.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:31895171-33758810.BeroukhimS5.del	DNA	Copy number loss
+loss_chr17:33754231-34162198.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:35067383-35272328.BeroukhimS2.17q12.amp.ERBB2	DNA	Copy number loss
+loss_chr17:36989609-37319012.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:37319013-37988602.BeroukhimS2.17q21.2.del	DNA	Copy number loss
+loss_chr17:39354620-40542083.BeroukhimS5.del	DNA	Copy number loss
+loss_chr17:41015664-41353348.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:44673157-45060263.BeroukhimS2.17q21.33.amp	DNA	Copy number loss
+loss_chr17:45731662-46009941.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:51748757-53292386.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:55144989-55540417.BeroukhimS2.17q23.1.amp	DNA	Copy number loss
+loss_chr17:58249995-58447640.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:59852249-60135967.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:62318152-63890591.BeroukhimS2.17q24.2.amp	DNA	Copy number loss
+loss_chr17:63942109-65847254.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:70767943-71305641.BeroukhimS2.17q25.1.amp	DNA	Copy number loss
+loss_chr17:75915141-77213225.BeroukhimS5.del	DNA	Copy number loss
+loss_chr17:77653047-78605474.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr17:78087533-78774742.BeroukhimS2.17q25.3.del	DNA	Copy number loss
+loss_chr18:1-587750.BeroukhimS2.18p11.32.del	DNA	Copy number loss
+loss_18.p.wholearm.chr18:1-16100000	DNA	Copy number loss
+loss_chr18:3200634-3858775.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr18:3240326-5937123.BeroukhimS5.del	DNA	Copy number loss
+loss_chr18:13905410-14018535.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr18:14720419-16909449.BeroukhimS5.amp	DNA	Copy number loss
+loss_18.q.wholearm.chr18:16100000-76117153	DNA	Copy number loss
+loss_chr18:17749667-22797232.BeroukhimS2.18q11.2.amp	DNA	Copy number loss
+loss_chr18:32113759-32649538.BeroukhimS5.del	DNA	Copy number loss
+loss_chr18:44506813-45038631.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr18:46172638-49935241.BeroukhimS2.18q21.2.del.SMAD4.DCC	DNA	Copy number loss
+loss_chr18:75796373-76117153.BeroukhimS2.18q23.del	DNA	Copy number loss
+loss_chr19:1-526082.BeroukhimS2.19p13.3.del	DNA	Copy number loss
+loss_19.p.wholearm.chr19:1-28500000	DNA	Copy number loss
+loss_chr19:1818912-2004994.BeroukhimS5.del	DNA	Copy number loss
+loss_chr19:7321723-7480918.BeroukhimS5.del	DNA	Copy number loss
+loss_chr19:8920808-8939190.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr19:10895846-11164554.BeroukhimS5.del	DNA	Copy number loss
+loss_chr19:15641747-15670750.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr19:21788507-34401877.BeroukhimS2.19p12.del	DNA	Copy number loss
+loss_19.q.wholearm.chr19:28500000-63811651	DNA	Copy number loss
+loss_chr19:32764651-33569283.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr19:34975531-35098303.BeroukhimS2.19q12.amp.CCNE1	DNA	Copy number loss
+loss_chr19:37265855-38702029.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr19:39664720-39962225.Basal.19q13.11-112.amp	DNA	Copy number loss
+loss_chr19:39677306-41155075.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr19:43177306-45393020.BeroukhimS2.19q13.2.amp	DNA	Copy number loss
+loss_chr19:44889764-44995371.BeroukhimS5.del	DNA	Copy number loss
+loss_chr19:47121673-49919582.BeroukhimS5.del	DNA	Copy number loss
+loss_chr19:49818193-50114786.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr19:52031294-53331283.BeroukhimS2.19q13.32.del	DNA	Copy number loss
+loss_chr19:53372336-53572212.BeroukhimS5.del	DNA	Copy number loss
+loss_chr19:59066340-59471027.BeroukhimS2.19q13.42.amp	DNA	Copy number loss
+loss_chr19:63402921-63811651.BeroukhimS2.19q13.43.del	DNA	Copy number loss
+loss_chr20:1-325978.BeroukhimS2.2p13.del	DNA	Copy number loss
+loss_20.p.wholearm.chr20:1-27100000	DNA	Copy number loss
+loss_chr20:14210829-15988895.BeroukhimS2.2p12.1.del.MACROD2	DNA	Copy number loss
+loss_chr20:20585029-20740450.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr20:22719364-23648289.BeroukhimS5.amp	DNA	Copy number loss
+loss_20.q.wholearm.chr20:27100000-62435964	DNA	Copy number loss
+loss_chr20:29526118-29834552.BeroukhimS2.2q11.21.amp.BCL2L1	DNA	Copy number loss
+loss_chr20:33386980-33969561.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr20:34179462-45265004.BeroukhimS5.del	DNA	Copy number loss
+loss_chr20:40134806-41603948.LumB.20q13.11-165.amp	DNA	Copy number loss
+loss_chr20:41621022-45719023.LumB.20q13.12-166.amp	DNA	Copy number loss
+loss_chr20:45719063-49181611.LumB.20q13.13-167.amp	DNA	Copy number loss
+loss_chr20:49438571-52269898.LumB.20q13.2-168.amp	DNA	Copy number loss
+loss_chr20:51603033-51989829.BeroukhimS2.2q13.2.amp	DNA	Copy number loss
+loss_chr20:56249879-56298730.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr20:59868877-61137250.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr20:61329497-62435964.BeroukhimS2.2q13.33.amp	DNA	Copy number loss
+loss_21.p.wholearm.chr21:1-12300000	DNA	Copy number loss
+loss_21.q.wholearm.chr21:12300000-46944323	DNA	Copy number loss
+loss_chr21:16248572-25859193.BeroukhimS5.del	DNA	Copy number loss
+loss_chr21:35022364-36008600.BeroukhimS5.del	DNA	Copy number loss
+loss_chr21:38584860-42033506.BeroukhimS2.21q22.2.del.DSCAM.TMPRSS2.ERG	DNA	Copy number loss
+loss_chr21:44316476-46902240.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr21:46690655-46902240.BeroukhimS5.del	DNA	Copy number loss
+loss_22.q.wholearm.chr22:11800000-49691432	DNA	Copy number loss
+loss_chr22:15272143-16594738.BeroukhimS5.del	DNA	Copy number loss
+loss_chr22:18689393-20139185.BeroukhimS5.del	DNA	Copy number loss
+loss_chr22:19172385-19746441.BeroukhimS2.22q11.21.amp.CRKL	DNA	Copy number loss
+loss_chr22:20517661-21169423.BeroukhimS2.22q11.22.del	DNA	Copy number loss
+loss_chr22:22437934-22507511.BeroukhimS5.del	DNA	Copy number loss
+loss_chr22:23139372-23249329.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr22:31596415-33790650.BeroukhimS5.del	DNA	Copy number loss
+loss_chr22:36048950-38681384.BeroukhimS5.amp	DNA	Copy number loss
+loss_chr22:37740208-38258806.Basal.22q13.1-113.amp	DNA	Copy number loss
+loss_chr22:45488286-49691432.BeroukhimS2.22q13.33.del	DNA	Copy number loss
+loss_chrX:1-3243111.BeroukhimS2.Xp22.33.del	DNA	Copy number loss
+loss_X.pwholearm.chrX:1-60000000	DNA	Copy number loss
+loss_chrX:6695466-8345492.BeroukhimS5.del	DNA	Copy number loss
+loss_chrX:8707411-9925292.BeroukhimS5.del	DNA	Copy number loss
+loss_chrX:14236816-19468566.BeroukhimS5.amp	DNA	Copy number loss
+loss_chrX:31041721-34564697.BeroukhimS2.Xp21.2.del.DMD	DNA	Copy number loss
+loss_chrX:43505580-46847125.BeroukhimS5.amp	DNA	Copy number loss
+loss_X.qwholearm.chrX:60000000-154913754	DNA	Copy number loss
+loss_chrX:66436234-67090514.BeroukhimS2.Xq12.amp.AR	DNA	Copy number loss
+loss_chrX:69545961-73353657.BeroukhimS5.amp	DNA	Copy number loss
+loss_chrX:139424793-139908341.BeroukhimS5.del	DNA	Copy number loss
+loss_chrX:148267454-148753845.BeroukhimS5.amp	DNA	Copy number loss
+loss_chrX:152729030-154913754.BeroukhimS2.Xq28.amp	DNA	Copy number loss
